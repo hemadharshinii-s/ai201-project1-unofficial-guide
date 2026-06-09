@@ -130,35 +130,35 @@ Other considerations include multilingual support, memory requirements, inferenc
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
 ```text
-                                                       Rutgers CS Sources
-                                                  (Reddit + Student Guides)
-                                                                 |
-                                                                 v
-                                                       Document Ingestion
-                                                       (Python File Loader)
-                                                                 |
-                                                                 v
-                                                            Chunking
-                                             (500 Character Chunks, 100 Overlap)
-                                                                 |
-                                                                 v
-                                                            Embeddings
-                                        (sentence-transformers: all-MiniLM-L6-v2)
-                                                                 |
-                                                                 v
-                                                            ChromaDB
-                                                       (Vector Database)
-                                                                 |
-                                                                 v
-                                                            Retrieval
-                                                       (Top-k Semantic Search)
-                                                                 |
-                                                                 v
-                                                            Generation
-                                                  (Groq Llama-3.3-70B-Versatile)
-                                                                 |
-                                                                 v
-                                                       Answer + Source Citations
+                                             Rutgers CS Sources
+                                        (Reddit + Student Guides)
+                                                       |
+                                                       v
+                                             Document Ingestion
+                                             (Python File Loader)
+                                                       |
+                                                       v
+                                                  Chunking
+                                   (500 Character Chunks, 100 Overlap)
+                                                       |
+                                                       v
+                                                  Embeddings
+                              (sentence-transformers: all-MiniLM-L6-v2)
+                                                       |
+                                                       v
+                                                  ChromaDB
+                                             (Vector Database)
+                                                       |
+                                                       v
+                                                  Retrieval
+                                             (Top-k Semantic Search)
+                                                       |
+                                                       v
+                                                  Generation
+                                        (Groq Llama-3.3-70B-Versatile)
+                                                       |
+                                                       v
+                                             Answer + Source Citations
 ```
 
 ---
