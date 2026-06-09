@@ -130,35 +130,35 @@ Other considerations include multilingual support, memory requirements, inferenc
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
 ```text
-                     Rutgers CS Sources
-                  (Reddit + Student Guides)
-                               |
-                               v
-                    Document Ingestion
-                     (Python File Loader)
-                               |
-                               v
-                          Chunking
-             (500 Character Chunks, 100 Overlap)
-                               |
-                               v
-                         Embeddings
-        (sentence-transformers: all-MiniLM-L6-v2)
-                               |
-                               v
-                         ChromaDB
-                     (Vector Database)
-                               |
-                               v
-                          Retrieval
-                    (Top-k Semantic Search)
-                               |
-                               v
-                          Generation
-               (Groq Llama-3.3-70B-Versatile)
-                               |
-                               v
-                    Answer + Source Citations
+                                                       Rutgers CS Sources
+                                                  (Reddit + Student Guides)
+                                                                 |
+                                                                 v
+                                                       Document Ingestion
+                                                       (Python File Loader)
+                                                                 |
+                                                                 v
+                                                            Chunking
+                                             (500 Character Chunks, 100 Overlap)
+                                                                 |
+                                                                 v
+                                                            Embeddings
+                                        (sentence-transformers: all-MiniLM-L6-v2)
+                                                                 |
+                                                                 v
+                                                            ChromaDB
+                                                       (Vector Database)
+                                                                 |
+                                                                 v
+                                                            Retrieval
+                                                       (Top-k Semantic Search)
+                                                                 |
+                                                                 v
+                                                            Generation
+                                                  (Groq Llama-3.3-70B-Versatile)
+                                                                 |
+                                                                 v
+                                                       Answer + Source Citations
 ```
 
 ---
@@ -178,10 +178,18 @@ Other considerations include multilingual support, memory requirements, inferenc
 I plan to use ChatGPT, Claude, and Gemini as implementation assistants throughout the project.
 The AI tools will help generate code based on the specifications I define in this planning document, but I will review, test, and modify all generated code before using it. 
 
+**Milestone 3 — Ingestion and chunking:**
+
 - Document Ingestion and Chunking: I will provide the AI tools with my document collection description, chunk size, overlap size, and pipeline architecture. I will ask the AI to generate Python code that loads text files from the documents directory, performs basic cleaning, and creates chunks according to my specified strategy. 
    - Expected Output: File loading functions, text cleaning functions, chunking functions, metadata creation for source tracking
+
+**Milestone 4 — Embedding and retrieval:**
+
 - Embedding and Vector Store: I will provide the AI tools with the retrieval approach section of this plan and ask them to generate code that uses the all-MiniLM-L6-v2 embedding model and stores embeddings in ChromeDB. 
    - Expected Output: Embedding generation code, ChromaDB initialization, code for storing chunks and metadata, retrieval functions
+
+**Milestone 5 — Generation and interface:**
+
 - Grounded Generation: I will provide the AI tools with the project requirements related to grounding and source attribution. I will ask them to generate code that retrieves relevant chunks and constructs prompts that instruct the language model to answer only from retrieved context. 
    - Expected Output: Prompt templates, retrieval-to-generation, source attribution formatting, refusal handling for out-of-scope questions
 - User Interface: I will provide the AI tools with the project requirements for a query interface and ask them to generate a simple Gradio application. 
@@ -189,8 +197,3 @@ The AI tools will help generate code based on the specifications I define in thi
 
 For every generated component, I will review the implementation, compare it against the project requirements, test the code, and modify it when necessary to ensure it matches my design decisions. 
 
-**Milestone 3 — Ingestion and chunking:**
-
-**Milestone 4 — Embedding and retrieval:**
-
-**Milestone 5 — Generation and interface:**
