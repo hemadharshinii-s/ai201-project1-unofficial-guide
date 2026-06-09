@@ -1,0 +1,46 @@
+SOURCE:
+
+Reddit
+
+URL:
+
+https://www.reddit.com/r/rutgers/comments/152i9se/cs_research_opportunities/
+
+THREAD TITLE:
+
+CS Research Opportunities
+
+POST:
+
+Hey everyone,
+I'm interested in learning about any CS research opportunities or ways to get involved in CS research. 
+I would like to keep grad school as an option after I graduate, but I currently lack any research experience and plan to graduate early (I have 2 more years left). 
+I applied to the Aresty RA program but was not accepted (I applied as a freshman and struggled to find positions which I met all the prerequisites for). 
+Also, I couldn't apply for the summer research program this year due to my summer classes. 
+So, I'm wondering if any of you have any suggestions for finding research opportunities. Thanks!
+
+COMMENTS:
+
+Sometimes the Rutgers CS department emails out notifications about new jobs.
+These include student programmers and CS research assistant positions. 
+If you do not get these emails, you can find them on https://resources.cs.rutgers.edu/jobs/ . 
+It's empty right now but will populate when new positions are open and disappear once filled.
+Also I believe you can find opportunities through the Rutgers CS discords or talk to the individual professors about your situation.
+
+I applied to a bunch of CS job openings, including TA positions, tutoring, and programming jobs, but was rejected from everything. 
+Could it be because I was a freshman, or are they just super competitive? I have a good GPA and about a year of SWE work experience.
+
+Probably a bit of both. I've only known one freshman who became a TA but even then, the positions themselves are just super competitive in general.
+You best bet for any sort of opportunity is to directly email the professors and make a case for yourself.
+
+Cold email professors who have research projects. It doesn't have to be CS professors cuz most labs will benefit from some coding and stuff so if you happen to be interested in biology or chemistry go do some research there also because there is a lot of data analytics and stuff they use.
+Also, you gotta be alright with doing free labor in research. You'll have better odds doing research with a professor for a few months and then asking if they can get a grant or something. 
+What professor is gonna use up his funding to pay some random undergrad with barely any experience? 
+It makes no sense from their end. Also, I personally think Aresty is a scam but that's probably just cuz I got rejected from it but I wouldn't bother with it to be honest.
+
+I’m totally fine with doing the “dirty work” for free or whatever it takes to get some experience. When do you think is the best time to email professors? Right now? At the beginning of the semester?
+
+Yea just start sending them out now and ask for positions in the fall. There might be some training or logistics to get sorted out before the year starts. Also, specify unpaid or volunteer in your emails. Wish you luck!
+
+Do well in a course taught by a faculty member and then mail them. You can also read the research papers and then write to them summarizing why you want to work in that particular area or problem.
+

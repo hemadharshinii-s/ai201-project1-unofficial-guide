@@ -1,0 +1,100 @@
+SOURCE: 
+
+Reddit
+
+URL:
+
+https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/
+
+THREAD TITLE: 
+
+CS classes by difficulty
+
+POST:
+
+Guys I have seen posts ranking CS electives by toughness. But I have never seen anyone rank the difficulty of the required classes.
+
+CS : 01:198:111, 112, 205, 206, 211, 344.
+
+Math : 01:640:151(Calc 1), 152(Calc 2), 250(Linear Algebra.
+
+I would really appreciate if you could rate the classes by difficulty on a scale of 1-10 and if you could specify what classes to not take together in the same semester.
+
+I would like to make this a thread that will help the future students as well.(a lot of my friends have questions about these courses and their difficulty).
+
+Thank you for everyone who contributed!
+
+COMMENTS:
+
+Grad Algo vs Ug Algo :
+Typically grad algo courses will require background from 344, so it is best to get through 344 before attempting grad algo. Grad algo is available as :
+512 (the most basic grad course which still requires 344 background)
+513/514 - more advanced courses where the content depends a lot on the instructor - 344 knowledge would be a prereq, but may not suffice always.
+344 : the algorithms course that is supposed to get you started with algorithms - with the objective of developing your algorithmic thinking (how to devise an algorithm for a given problem etc). 
+A sizable portion at the beginning is dedicated to asymptotic notation and recurrence resolving.
+Difficulty - depends on the instructor (pretty much)
+You really want to be careful with the choice of instructor for 344 if you can help it since algorithms are essential for interview prep as well as for any further grad courses in robotics/AI/ theory etc.
+Good picks - Sepehr Assadi (he is teaching 344 in spring 2021 and you will get to learn a lot from his 344), Aaron Bernstein, Wesley Cowan.
+As for who to avoid, take a look at the teaching feedback on SIRS or ratemyprofessors.com- that should help you.
+Make sure to get all the help you may need from the teaching staff since this is definitely a "coming of age" course.
+344 may feel a little overwhelming since it is a big step in your development but the process will be rewarding in the long term. 
+Definitely rewarding in the long term. (In other words, brace yourselves for growing pains)
+Good luck for your finals :)
+
+Im gonna recommend grad algo over algo. It's probably harder (but i dont know anyone whos taken both and can thus compare) but its one of the few classes where I didnt feel like I couldn't have just skimmed GeeksForGeeks instead.
+
+How’d you prep for grad algo w/o reg ugrad algo? 
+I’m a freshman rn so this isn’t rly relevant to me, but Im planning out my future semesters and I did see a few other ppl recommend grad algo over ugrad algo. 
+Just curious how you prepped Bc I’ve heard it’s very intensive and it assumes you know all of ugrad algo already.
+
+Meet your new best friend: https://mitpress.mit.edu/books/introduction-algorithms-third-edition
+It's a pretty dense textbook, and honestly not that easy to go in without some familiarity with data structures and some basic experience with the types of problems you'll experience, so don't get discouraged if it's confusing or overwhelming. 
+A nice book to look at if you want to prep yourself for Intro to Algorithms is Cracking the Coding Interview.
+That being said, those only cover the concepts. Algo 513 was mostly just proving stuff, which I had done before in Discrete 1 (and a little bit in math 477 which I took instead of Discrete 2, where I assume people did proofs too). 
+I'm sure plenty of people have done algo without doing discrete first, but I did not, so it might have helped. You know what's best for you.
+
+Not CS major but for Math heres what I'd probably say:
+Math 151 - 7 Doable workload, but really have to prioritize staying on top of each topic and learning everything as you go rather than the night before. Practice makes perfect.
+Math 152 - 8 Very similar to 151, except that the topics are a big more abstract and quite a few of the problems have more than 1 way to do them.
+Math 250 - 6 Very tedious course, but honestly not as bad as most other math courses. Primarily consists of much more calculations but all of them are basic arithmetic.
+Keep in mind all these ratings can also be influenced by what professor you have.
+
+With 1 being easy and 10 being difficult...
+111: 3, possibly a 4 if you've never coded before or a 2 if you have
+112: 8
+205: 3, 4 if you're not a proof person
+206: 4
+211: 6, 7-8 if you don't pay attention to the memory management lectures
+344: 5, 8 if you take it with Kalantari (pro tip: don't)
+Math 151/152: did not take at Rutgers so can't judge but apparently these are pretty hard
+Math 250: 3-4
+
+Tbh if you slack off in 111 even if you know how to code beforehand you could possibly not get an A
+
+It all depends on professors imo
+
+Do you have any idea what Bernstein is like for algo
+
+Bernstein is pretty good. 
+He records his lectures. 
+Usually 3 out the 4 problems are easy to medium level and 1 hard one. 
+Then he usually gives like 10 to 15 points extra credit question on the hws and exams. 
+2 take home exams non cumulative. Exams are almost like homework. 
+He will tell you which questions on the exams is similar to the hws. 
+His grading scale is lenient. 
+One semester 89 is an A, 49 IS C and my semester 86 is an A, 47 is C.
+
+So my tips are as follows:
+Regarding CS:
+111: Moderate IF YOU HAVE prior Java experience. Otherwise, this class can be pain.
+112: Concepts aren't bad. Very useful for interviews, but assignments are a pain. START THEM EARLY.
+211: Hard. Nothing more than it. It's C programming and low-level and you learn about the inner workings of a computer. Interesting but the assignments are very meticulous because debugging in a low level language can be difficult.
+205: Subjective. It's a math class but a different kind of math. If proofs and math are your strong suit, the class is easy. Otherwise, it's hard. Also depends on professor. Guna was hard.
+206: It's all probability. It mainly depends on the professor. Cowan is really hard but really good. Insightful lectures no midterm no final, but homeworks are extremely hard.
+344: Kind of hard but an important class. It's a math class and you do proofs. Took it with Zhang so wasn't very difficult, but heard different things about Bernstein and Assadi.
+Math:
+151: Moderately hard. Do the problems and stay on top of things.
+152: Much harder, but still, staying on top of things is the best thing to do.
+250: Easier than Calc, but still takes time.
+Most of these classes take time. Some classes, however, can take time or be extremely easy depending on how the professor runs the class so choose wisely. Even if a class is hard, it teaches you how to prepare for the real world: thinking, being perserverant, putting time, talking to people about problems, because in the real world, that's how life is.
+

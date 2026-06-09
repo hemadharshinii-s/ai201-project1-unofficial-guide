@@ -1,0 +1,70 @@
+SOURCE:
+
+Reddit
+
+URL:
+
+https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/
+
+THREAD TITLE:
+
+The Quality of Computer Science at Rutgers
+
+POST:
+
+i am international student from India ( ofcourse). I am trying to make up my mind between Virginia Tech and Rutgers. Recently, I have read a lot of posts and comments regarding the CS program at Rutgers becoming shitty due to profs leaving.
+
+The COA at VT will be around 62K for 2024 and I think for Rutgers it would be 50K for 2024 however I could not find proper data on it.
+
+I am just so confused right now!! I very well-known after all its about networking and projects, but I do not want to go to RU if I will actually be disadvantaged when I find a job. My parents are paying HUGE AMOUNTS for my education, I hope to find internships in freshman year to ease it off. Do you think RU will help me do that? using career fairs maybe? coz VT has great career fairs ive heard.
+
+I do know internships as freshman is sorta impossible. But I feel I can pull it off I am well-versed with Java and OOPs, Web dev ( laravel and php) and lil of dsa ( i know how to reverse a linked list lol).
+
+WELL! any help would be appreciated..mainly how should i approach this decision? should i think about the fees? or quality? thanks again.
+
+COMMENTS:
+
+Rutgers is pretty good and there are many people who get those high demand internships and jobs such as Amazon.
+
+Yes it is true that many professors have left and are slowly being replaced with grad students and former TAs but there are still a lot of great educational opportunities available.
+
+Internship as a freshman is nearly impossible only because most (80-90%) of companies just don't want to hire freshmen. 
+If you find the right company and/or market yourself right, yes for sure you can get one. 
+This also comes with emailing/ reaching out to the recruiter rather than trying to go through the standard application process because you will most definitely get filtered out, regardless of how good your resume is, otherwise.
+
+Better location = better internships; Rutgers has a higher rank than Virginia tech; Rutgers is cheaper for you. Obvious choice.
+
+Neither. Go to Indian universities. 
+Difficult to get job or internship for international students due to immigration issues
+
+At the end of the day university is what you make of it. I can’t talk about Virginia tech. However at Rutgers there is little to no hand holding. 
+If you succeed academically it’s literally because of you and you alone. This school has like 50k students. It wouldn’t be possible to hold your hand.
+
+The professors teach the material to give you the tools you need, you then get the project and there’s stuff you need to figure out on your own to get it working. 
+Sure there’s resources, but it’s up to you to actively seek it out.
+
+The CS program is completely what you make of it at pretty much any school.
+
+When it comes to getting a job or internship, 99% of time what school you went to means absolutely nothing. 
+And the majority of that 1% of the time it does matter it’ll just be because the person hiring you also went to that school.
+
+Learn as much as you can outside of class (in addition to what you’re learning in class) and work on your own projects and you’ll be fine no matter what school you went to.
+
+As someone who has been back to Rutgers to work a table at the career fair for my company no matter how stacked your resume is for CS you won’t stand out at all, everyone has resumes like that now (of course many are lying but doesn’t mean anything when you’re just talking at the table). 
+Unless you did something that specifically related to what the company does you’re just another CS major. 
+However that doesn’t mean you can’t get a job/internship, just for 99% of the people you won’t be finding a job at the career fair, which is fine.
+
+Internships are hard as a freshman so if you can’t get one just work on a big project on your own that’s related to what a company you want an internship as does and try again the next year to increase your chances.
+
+This is not true at all, what school you went to matters a ton for your first job and internship. 
+And you can find a job at the career fair, it's tough but the companies literally wouldn't come if they had zero intention of hiring. 
+You just can't be some mediocre student with a mid GPA, zero work experience zero non schoolwork projects and zero charm and expect to find an internship by chucking a resume into a pile
+
+That being said the difference between VT and Rutgers probably isn't enough to justify paying a lot in extra tuition
+
+It’s actually 100% true.
+What school you went to does not matter at all 99% of the time.
+You can find a job or internship at a job or career fair, but the companies all go to multiple schools and many hundreds if not thousands of people are competing for maybe a few dozen jobs at the company or sometime only a few, so your statistical probability of being hired from the career fair is objectively low.
+
+Current student I have well knowledge in java I’ve worked in the industry as well but the teacher here suck … don’t waste your time … my sibling when to school here 6 years ago when it was worth it and they had good teachers she been and she’s wealthy now but I have spoken to her and she’s upset on how the quality of education has diminished
+

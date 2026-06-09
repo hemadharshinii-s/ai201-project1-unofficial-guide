@@ -1,0 +1,102 @@
+SOURCE: 
+
+Reddit
+
+URL: 
+
+https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/
+
+THREAD TITLE: 
+
+My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May
+
+POST:
+
+Hey! I've found that there are questions about CS classes pretty often in various comment threads, so I figured I'd just make a post about my path through the degree and my recommendations for anyone else who's considering going for it.
+
+First off, a list of all the CS courses I took and when I took them, so you can measure your own schedule against it. Keep in mind that I really went deep and ended up taking some grad classes, so you can take it a little slower and be fine.
+
+APs: CS 111, Math 151+152
+
+Freshman Fall: No CS classes
+
+Freshman Spring: 112, 205
+
+Sophomore Fall: 206, 211
+
+Sophomore Spring: 213, 344, 352
+
+Junior Fall: 314, 442
+
+Junior Spring: 440, 443, 513
+
+Senior Fall: 431, 444, 514
+
+Senior Spring: none (a math elective but I haven't been listing those)
+
+------
+
+Course-Teacher combination reviews:
+Electives will have a '>' in front of them.
+
+CS 112: A fairly implementation-based course. However, the data structures you learn here remain important throughout your CS career, so you should take the extra time to understand how exactly they work. The highlight of this course was there was when a question on the final asked me to prove an incorrect statement. I brought it up to the teacher, who looked at the textbook (written by Sesh), and we determined that the proof in the textbook was either glossing over important lemmas or was wrong.
+
+CS 205 + Kalantari: Baby's first theory course. Cross-listed with the Math department as Math 300. It's mostly just proofs, proof techniques, and logic. I had a hard time staying awake and alert in class, but I knew the material so it wasn't too bad.
+
+CS 206 + Steiger: Baby's second theory course. Cross-listed with the Math department as Math 477 (iirc). Probability and combinatorics are immensely useful in both algorithm design and analysis, so pay attention! Professor Steiger is incredibly nice, but he talks a bit quietly; I'd recommend sitting up close if you don't know the material.
+
+CS 211 + Menendez: Implementation-based course in programming languages that were totally new to me. Getting the hang of things was hard, but I managed to stay afloat. The class was like 8-9:20 or something so it was hard to stay awake, but Menendez made it possible.
+
+> CS 213 + Sesh: Implementation-based course which I snuck into and I'm still not positive how. Incredibly useful material, actually challenging (though not entirely overwhelming). It has Sesh-grading, which I'm not a fan of.
+
+> CS 314 + Menendez: Implementation/theory based course? Your mileage may vary depending on your professor and on the semester. Our curriculum was like 75% Haskell and 25% Prolog, but that changes. It took me a while to adapt, but then it just started clicking and it was awesome. I enjoyed Menendez's classes even more now that they were at a reasonable hour.
+
+CS 344 + Kalantari: A theory course, in which I wrote 0 lines of actual code on a computer. Despite that, this is definitely an important class if you plan on writing code for a living. This is where you start to apply the data structures from 112 to solve problems, and do lots of analysis on the best way to do so. This is definitely a course you want to get, not just pass. I'm not sure I'd recommend Kalantari if you don't already know the material.
+
+> CS 352 + (Srinivas) Narayana: A theory course, but is much more about the breadth of topics rather than their depth. It felt like every class was a bombardment of information on protocols and implementations, so pay attention and study up. The few coding projects I did were small and pretty simple, so the tests were the real killer. This is all subject to change depending on the curriculum tho, I guess. Professor Narayana is a great guy and a good lecturer, I just wish the material were a little less dry.
+
+> CS 431 + Chang: An implementation course, and the next level up from 213. Just a single semester-long super-duper group project, while you learn about how to function in a modern software development environment and take a few exams to show that you're absorbing that information. Chang is really nice and wants to see her students succeed. The material is a bit dry but it's all useful.
+
+> CS 440 + McMahon: A theory course... I think? Honestly the semester blurred together. McMahon seems like a nice guy, but I found it really hard to stay focused during the lectures. This was during the initial regular -> at-home transition, so I really can't blame him too much. I also somehow squeezed out an A so I'm not even sure what I'm complaining about... besides the fact I barely remember taking the class, let alone anything I learned.
+
+Topics classes: these are taught by a professor about anything they want to teach, so this is probably as good an example of the professor in their raw form as you'll get. This also means they're highly variable.
+
+> CS 442 + Steiger: A theory course about probabilistic algorithms. At least half the class were probably graduates. He was more than ready to just teach and talk with the students in a very personal way, and it was clear he enjoyed what he was doing. He wanted us all to learn, and was happy to give out as many As as people deserved. Awesome guy.
+
+> CS 443 + Kapadia: An implementation course about computer animation, based in Unity. This is cross-listed as a graduate class. I took this class with two friends and had a blast. Notably, the lectures often felt pretty far from the projects you get assigned to do (though sometimes you'd be implementing something and realize material from 4 weeks ago is super relevant and helpful now). Professor was fun, grading was fair, assignments were doable, TA was awesome (Sam if you're reading this you rock).
+
+> CS 444 + Ahn: An implementation course about deep learning AI. It was hard for me to pay attention to these lectures in real time, but going back to the recordings and playing them at 1.5x - 2x speed was often a good pace and were engaging. My biggest complaint would be about the assignments. They were a bunch of method stubs which you have to fill in precisely correctly or else you'll just get errors and nothing will work. You spend at least 20-30 hours writing 150 lines of code. I would not have survived this class if not for the TA who is an absolute saint. Yi-Fu: you rock.
+
+Grad classes:
+
+> CS 513 + Gao: Graduate theory 1, obviously a theory course. Difficult but rewarding. This was another class that had to manage the in person -> at home transition and then did so with aplomb. A definite highlight would be the final. It was open notes, "here are the problems, you have 24 hours to solve them" and it was hard. I'm still dubious of my solution for one of them (graph coloring, but you can't be the same as any node within distance 2 instead of distance 1 - prove it's NP-Hard).
+
+> CS 514 + Farach-Colton: Graduate theory 2. One of my favorite classes I've ever taken at Rutgers. Absolute banger. Martin is awesome and incredibly entertaining and makes learning a joy. I can only wistfully imagine how much better it would have been in person, but this class was still awesome, and this professor is still awesome. Cannot overstate.
+
+------
+
+General Tips:
+There are three rounds of SPN applications. If you want to get into a class, apply to all three. Don't sleep. Also, put a little heart into them. I'm like 90% sure a human is reading those. I'm not sure if saying thanks or putting in a joke will actually make them pick you, but at least it'll make their day a little better.
+
+The topic of the course is often less important than the work you'll have to do. Don't get sucked in by interesting course titles. The kind of work you'll be told to accomplish and the teacher that's lecturing and grading are often way more important to your enjoyment and grade than your initial interest in a subject. A really good teacher can even make you like something you didn't before.
+
+Figure out if you're a theoretical CS/Math major or a code monkey. Not that those two are totally separate - there's plenty of overlapping people and courses. You can like both or hate both (though if you hate both you should drop out of CS tbh). Just, try to take 112, 205, and 206 as early as possible and use your experience in those courses to guide what electives you try to take.
+
+When you have a question, ask the TAs. TAs are often awesome and get back to you very quickly. Similarly, don't be afraid to raise your hand and ask questions on a test. If you look at a problem on a test or on a homework and think "it either means this or that but it's probably this so I'll just assume that's it" then instead take 5 seconds to raise your hand and ask a TA if they can confirm you're right. Worst thing that happens is they say they can't help you with that.
+
+Comment your code, don't delete it. Simple easy trick. Whenever you want to delete large amounts of code, just comment them out with block comments instead. That way you can always restore it or look at it for guidance.
+
+Beware of Sesh grading. Some teachers are of the opinion that you should write code precisely how they tell you to on line 46 of page 2 of the notes from recitation 3 - and if you don't, well, you obviously didn't study line 46 of page 2 of the notes from recitation 3, so you get full points off. Others believe that they shouldn't give you all the answers, and test if you can figure out how to tackle a novel problem. Figure out which kind your professor is early on, and adapt your studying habits accordingly.
+
+Look out for Topics classes. Despite the high course numbers (442+ in my experience), these classes often have relatively low requirements. They're generally pretty chill, and you learn a lot about something you otherwise wouldn't. Be careful though. If it's approaching add/drop day and you're not getting good vibes, don't be afraid to drop.
+
+TL;DR
+Lmao I made a whole writeup use control-f.
+
+I'll leave notifs on so if the admins don't nuke this post I should be able to answer most question eventually.
+
+Edits:
+a. Skipping courses can be annoying later down the line. I skipped Math 250, and now have to get prereq overrides when registering for like every single course and I never check so I go to apply with all my seniority credits but can't so then I have to apply for an SPN and just like... ugh... if you've skipped a course, always remember to check your future courses for prereqs.
+
+b. On workload/time management: everyone is good at different things. I'm good at open-ended coding and algorithms. I'm really bad at memorization and fill-in-the-blank coding. 112, 314 and 344 combined were less time intensive than either of 352 or 444. Basically - the amount of time you have to spend on a class will depend on what you do quickly/slowly. It's better to ask about the types of work you'll have to do, rather than how long it took other people to do that work.
+

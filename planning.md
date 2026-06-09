@@ -11,6 +11,13 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+This project focuses on student-generated knowledge about the Rutgers University Computer Science program. 
+The document collection includes discussions about professors, course difficulty, electives, research opportunities, academic planning, internships, and strategies for success in the major. 
+
+This information is valuable because official Rutgers course desciptions and department resources provide limited insight into the actual student experience.
+Students frequently share advice, opinion, and experiences through Reddit discussions, blog posts, and community resources, but this knowledge is scattered across many different sources and can be difficult for students to find efficiently.
+The goal of this project is to make that unofficial Rutgers CS knowledge searchable through a retrieval-augmented generation (RAG) system.
+
 ---
 
 ## Documents
@@ -20,16 +27,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Reddit | Best and Worst CS Professors | https://www.reddit.com/r/rutgers/comments/u2bock/best_cs_professors_and_worst_cs_professors/ |
+| 2 | Reddit | Quality of CS at Rutgers | https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/ |
+| 3 | Reddit | Rutgers CS Courses by Difficulty | https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/ |
+| 4 | Reddit | Easiest Rutgers CS Electives | https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/ |
+| 5 | Reddit | Advice from a Graduating Senior | https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/ |
+| 6 | Reddit | CS Research Opportunities | https://www.reddit.com/r/rutgers/comments/152i9se/cs_research_opportunities/ |
+| 7 | Reddit | Minor Recommendations | https://www.reddit.com/r/rutgers/comments/1fioy6g/people_with_computer_science_majors_what_minors/ |
+| 8 | Reddit | Newcomer's Guide | https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/ |
+| 9 | Medium | Success in Rutgers CS | https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb |
+| 10 | Github | Student Experiences of Succeeding in Rutgers CS | https://github.com/sakib/succeeding_in_rutgers_cs |
 
 ---
 

@@ -1,0 +1,86 @@
+SOURCE:
+
+Reddit
+
+URL:
+
+https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/
+
+THREAD TITLE: 
+
+For newcomers interested in C.S.
+
+POST: 
+
+Guide to CS Majors
+
+Hi. I’ve written this “guide” to pass the time and get my mind off my own things. Haha. I would have written this to myself if I was an incoming freshman at Rutgers.
+
+First and foremost, I am a C.S. major (obviously). I’m currently a junior, so I cannot speak for the senior year, but I have a good idea of my plans and feel comfortable with how things have progressed so far. Now, onto the guide!
+
+Why Computer Science?
+
+Many, many career opportunities
+
+Very versatile degree; not all Computer Science jobs require coding
+
+“Tinker” mindset. Your mind (and current technology) are the limit as to what you can do or create.
+
+What are the drawbacks of Computer Science?
+
+Highly competitive field
+
+Courses can be challenging depending on which you pick and who is your professor
+
+Math heavy and lots of concepts
+
+Should you pick Computer Science?
+
+I recommend asking yourself why you want to do C.S. Motivation is an influential factor in choosing a major. 
+C.S. can be difficult sometimes, and your motivation will keep you going. There are ways to get additional help, but your motivation is critical. These are some questions you should ask yourself.
+
+Are you interested in the major?
+
+Are you doing it because others have told you to do so?
+
+Do you see yourself doing something related to computer science in the future?
+
+Now that you’ve chosen to do C.S. Should you do a B.A. or B.S.?
+
+I have personally chosen B.A. and haven’t had any issues with that. It is also commonly accepted that both are good. Most companies do not care. The only argument I see in B.S. is that you want a B.S.! Just kidding. B.S. requires more technical coursework, so it might be beneficial if you plan on going into a more specialized field. 
+You can do the same with a B.A., so it is primarily personal preference. Neither requires a minor, but with a B.A., you will have more opportunities to take courses outside the Computer Science department as the B.A. requires fewer credits than B.S. Just my two cents.
+
+Creating a Schedule
+
+Falling behind at Rugters is very easy to do. Having a “game plan” is essential so that you do not miss necessary courses/requirements that will prevent you from graduating. I highly recommend looking at the Sample Schedules for either B.A. or B.S. I followed these to make my schedule and have been super happy. 
+By following one of the sample schedules, you will meet all of your C.S. electives/requirements (The B.A. sample schedule does not mention this, but you must take at least two CS 300 or higher electives. For B.S., this does not matter). Here are the complete requirements for B.A. and B.S.
+Make sure that you also meet your SAS Core Electives that all schools of Arts and Sciences must meet. You can see the SAS Core Curriculum here. You can also use Degree Navigator to keep track of your SAS core requirements and C.S. major (once you have declared it).
+
+Sample B.A. Schedule (rutgers.edu)
+
+Sample B.S. Schedule (rutgers.edu)
+
+Picking Classes
+
+There are a lot of C.S. electives to choose from. You can pick and choose which electives you want to do. Do your research by looking at this subreddit and Google. Some courses also have their Syllabus listed publicly (before the class starts) if you search it on Google (Example Syllabus). 
+Ultimately, I have not put too much into this section because the electives are mostly personal preferences. Some courses are more complex than others but generally similar by course level.
+However, I strongly recommend utilizing RateMyProfessor as some professors teach better than others and can make the same course significantly more straightforward to complete.
+
+Career Development
+
+When I came to Rutgers, my goal was and still is to set myself up for success in the future. Everyone will talk about internships or research and the importance of it. 
+The real question is, how do I obtain those opportunities? The answer I’ve found so far is developing yourself to “sell” yourself to companies. Taking the initiative is always looked highly upon. 
+At Rutgers, there are a lot of opportunities and resources for this. You can join a club, teach a course, work part-time, or tutor other students. 
+The list goes on and on and doesn’t necessarily need to be related to C.S. Undergraduate C.S. Student Organizations are a great way to gain experience in various C.S. fields and put on your Resume. 
+Handshake is another excellent resource for finding on-campus jobs as well as internships. GetInvolved is another great resource for finding organizations, events, or opportunities you may be interested in. 
+Companies love to see when you are demonstrating a holistic persona. They want to know that you have related experience and are active in your interests. 
+Another “easy” way to get related experience is to work on side projects. It does not have to be too complicated, either. 
+For instance, you can look up a walkthrough on YouTube for creating a chat application; once you’ve completed a project, you can add your work to GitHub and your Resume. 
+For people who want to start their coding interview practice, I recommend looking at NeetCode to prepare for them.
+
+In addition, Rutgers offers a lot of career resources. I highly recommend looking into these. Once you’ve worked on gaining experience, it’s equally important to present that experience effectively on a resume. 
+I highly recommend taking Career Explorations in the Arts and Sciences (For Sophomores and above). It is a graded 1.5 credit course that teaches you how to write your LinkedIn Profile and Resume. 
+It is a very easy course, and once you’ve completed it, you’ll have a LinkedIn profile, Resume, GPA booster, and more experience. Win-win all around.
+
+I hope you guys have enjoyed the read! Feel free to comment for feedback or additional questions :)
+

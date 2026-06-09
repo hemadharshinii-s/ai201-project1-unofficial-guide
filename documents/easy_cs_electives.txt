@@ -1,0 +1,58 @@
+SOURCE:
+
+Reddit
+
+URL:
+
+https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/
+
+THREAD TITLE: 
+
+What are the easiest electives for the BS Computer Science degree?
+
+POST:
+
+Title is self-explanatory, but which electives that count towards the BS Computer Science degree are the easiest/require the least effort?
+
+COMMENTS:
+
+If Python and ML are what interest you, take CS 210 and CS 439. 
+Both those classes are relatively straightforward. 
+336 is straightforward as well. 
+Other than that, however, most CS electives are meant to be time consuming and project heavy (classes like 461, 440, 213, 214). 
+However, even though those classes can be hard, they can prove useful for your career.
+
+CS 336: Prin Info/ Data Mgmt
+Philosophy Minds, Machines Persons: Can only do 2 non-CS electives total to count towards BS. This is a pretty light, fun, and easy one.
+Math 354 Linear Optimization: Requires little knowledge of linear algebra if you forgot it. Pretty decently easy course, requires little effort.
+CS 314: Principles of Programming languages. Honorable mention, easy when taught by professor Kremer. Unfortunately seems he only teaches it like once ever 4-5 years and last time he taught it was last year so we'll have to see.
+The rest require a lot more effort and I can't say are too easy. Definitely should not take only easy classes though. CS213 is quite challenging but probable one of the more useful courses if you want a career in software engineering.
+
+I've only heard terrible things about linear optimization.
+
+My junior friends are saying terrible things about linear optimization
+Last semester's professors were both good and I've only heard decent things at worst about the classes.
+I'm pretty sure there's a post from a week ago criticizing the class on this subreddit.
+
+It took it a year ago, it was the most boring and tedious class I’ve had. 
+You basically just iterate over a matrix according to rules akin to linear algebra, but very precise dependent upon the values in the matrix.
+The entire course is a snooze fest; there’s nothing interesting happening. 
+You literally spend the entire time doing mind numbing calculations over a 6x10 matrix or something similar. 
+I wouldn’t recommend it unless you just want to spend your time crunching numbers (some people took pride in their ability to do mental math on fractions… I take pride in never having to do such mind numbing work again).
+
+I wouldn't say 314 is "easy", I took it with Kremer last year and ended up dropping it halfway thru the semester because it was getting too confusing.
+
+I wouldn't do lin opt unless you're trying to check off math requirements as well, since it is extremely tedious, although not conceptually hard.
+
+I mean most math courses are tedious, especially since the upper level math takes like 30 minutes for 1 problem.
+But yeah definitely something to avoid if you're not strong in math or looking for a math degree.
+Still definitely an easier course than a lot of other CS electives
+
+Is Rutgers CS more about tech or theory?
+definitely more theory-leaning.
+Why is it like that if most tech jobs involve very little theory?
+It’s not a software engineering major. 
+It’s a computer science major. 
+CS is theory based and formulated the foundations of modern computer software. 
+It’s not designed to get you a job in SWE, but it gives you the fundamental skills for you to then make the effort to go into any sub field of CS as your career (if you pick the right courses).
+
