@@ -1,0 +1,1307 @@
+[
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_0",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 0,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "Hey! I've found that there are questions about CS classes pretty often in various comment threads, so I figured I'd just make a post about my path through the degree and my recommendations for anyone else who's considering going for it.\n\nFirst off, a list of all the CS courses I took and when I took them, so you can measure your own schedule against it. Keep in mind that I really went deep and ended up taking some grad classes, so you can take it a little slower and be fine.\n\nAPs: CS 111, Math 151+152"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_1",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 1,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "some grad classes, so you can take it a little slower and be fine.\n\nAPs: CS 111, Math 151+152\n\nFreshman Fall: No CS classes\n\nFreshman Spring: 112, 205\n\nSophomore Fall: 206, 211\n\nSophomore Spring: 213, 344, 352\n\nJunior Fall: 314, 442\n\nJunior Spring: 440, 443, 513\n\nSenior Fall: 431, 444, 514\n\nSenior Spring: none (a math elective but I haven't been listing those)\n\n------\n\nCourse-Teacher combination reviews:\nElectives will have a '>' in front of them.\n\nCS 112: A fairly implementation-based course. However,"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_2",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 2,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "Electives will have a '>' in front of them.\n\nCS 112: A fairly implementation-based course. However, the data structures you learn here remain important throughout your CS career, so you should take the extra time to understand how exactly they work. The highlight of this course was there was when a question on the final asked me to prove an incorrect statement. I brought it up to the teacher, who looked at the textbook (written by Sesh), and we determined that the proof in the textbook was either"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_3",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 3,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "at the textbook (written by Sesh), and we determined that the proof in the textbook was either glossing over important lemmas or was wrong.\n\nCS 205 + Kalantari: Baby's first theory course. Cross-listed with the Math department as Math 300. It's mostly just proofs, proof techniques, and logic. I had a hard time staying awake and alert in class, but I knew the material so it wasn't too bad.\n\nCS 206 + Steiger: Baby's second theory course. Cross-listed with the Math department as Math 477 (iirc). Probability"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_4",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 4,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "Baby's second theory course. Cross-listed with the Math department as Math 477 (iirc). Probability and combinatorics are immensely useful in both algorithm design and analysis, so pay attention! Professor Steiger is incredibly nice, but he talks a bit quietly; I'd recommend sitting up close if you don't know the material.\n\nCS 211 + Menendez: Implementation-based course in programming languages that were totally new to me. Getting the hang of things was hard, but I managed to stay afloat. The class"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_5",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 5,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "totally new to me. Getting the hang of things was hard, but I managed to stay afloat. The class was like 8-9:20 or something so it was hard to stay awake, but Menendez made it possible.\n\n> CS 213 + Sesh: Implementation-based course which I snuck into and I'm still not positive how. Incredibly useful material, actually challenging (though not entirely overwhelming). It has Sesh-grading, which I'm not a fan of.\n\n> CS 314 + Menendez: Implementation/theory based course? Your mileage may vary depending"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_6",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 6,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "a fan of.\n\n> CS 314 + Menendez: Implementation/theory based course? Your mileage may vary depending on your professor and on the semester. Our curriculum was like 75% Haskell and 25% Prolog, but that changes. It took me a while to adapt, but then it just started clicking and it was awesome. I enjoyed Menendez's classes even more now that they were at a reasonable hour.\n\nCS 344 + Kalantari: A theory course, in which I wrote 0 lines of actual code on a computer. Despite that, this is definitely an"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_7",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 7,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "course, in which I wrote 0 lines of actual code on a computer. Despite that, this is definitely an important class if you plan on writing code for a living. This is where you start to apply the data structures from 112 to solve problems, and do lots of analysis on the best way to do so. This is definitely a course you want to get, not just pass. I'm not sure I'd recommend Kalantari if you don't already know the material.\n\n> CS 352 + (Srinivas) Narayana: A theory course, but is much more about the"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_8",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 8,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "know the material.\n\n> CS 352 + (Srinivas) Narayana: A theory course, but is much more about the breadth of topics rather than their depth. It felt like every class was a bombardment of information on protocols and implementations, so pay attention and study up. The few coding projects I did were small and pretty simple, so the tests were the real killer. This is all subject to change depending on the curriculum tho, I guess. Professor Narayana is a great guy and a good lecturer, I just wish the material"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_9",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 9,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "tho, I guess. Professor Narayana is a great guy and a good lecturer, I just wish the material were a little less dry.\n\n> CS 431 + Chang: An implementation course, and the next level up from 213. Just a single semester-long super-duper group project, while you learn about how to function in a modern software development environment and take a few exams to show that you're absorbing that information. Chang is really nice and wants to see her students succeed. The material is a bit dry but it's all"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_10",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 10,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "Chang is really nice and wants to see her students succeed. The material is a bit dry but it's all useful.\n\n> CS 440 + McMahon: A theory course... I think? Honestly the semester blurred together. McMahon seems like a nice guy, but I found it really hard to stay focused during the lectures. This was during the initial regular -> at-home transition, so I really can't blame him too much. I also somehow squeezed out an A so I'm not even sure what I'm complaining about... besides the fact I barely remember"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_11",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 11,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "out an A so I'm not even sure what I'm complaining about... besides the fact I barely remember taking the class, let alone anything I learned.\n\nTopics classes: these are taught by a professor about anything they want to teach, so this is probably as good an example of the professor in their raw form as you'll get. This also means they're highly variable.\n\n> CS 442 + Steiger: A theory course about probabilistic algorithms. At least half the class were probably graduates. He was more than ready to"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_12",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 12,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "algorithms. At least half the class were probably graduates. He was more than ready to just teach and talk with the students in a very personal way, and it was clear he enjoyed what he was doing. He wanted us all to learn, and was happy to give out as many As as people deserved. Awesome guy.\n\n> CS 443 + Kapadia: An implementation course about computer animation, based in Unity. This is cross-listed as a graduate class. I took this class with two friends and had a blast. Notably, the lectures often"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_13",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 13,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "a graduate class. I took this class with two friends and had a blast. Notably, the lectures often felt pretty far from the projects you get assigned to do (though sometimes you'd be implementing something and realize material from 4 weeks ago is super relevant and helpful now). Professor was fun, grading was fair, assignments were doable, TA was awesome (Sam if you're reading this you rock).\n\n> CS 444 + Ahn: An implementation course about deep learning AI. It was hard for me to pay attention to these"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_14",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 14,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "Ahn: An implementation course about deep learning AI. It was hard for me to pay attention to these lectures in real time, but going back to the recordings and playing them at 1.5x - 2x speed was often a good pace and were engaging. My biggest complaint would be about the assignments. They were a bunch of method stubs which you have to fill in precisely correctly or else you'll just get errors and nothing will work. You spend at least 20-30 hours writing 150 lines of code. I would not have survived"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_15",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 15,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "will work. You spend at least 20-30 hours writing 150 lines of code. I would not have survived this class if not for the TA who is an absolute saint. Yi-Fu: you rock.\n\nGrad classes:\n\n> CS 513 + Gao: Graduate theory 1, obviously a theory course. Difficult but rewarding. This was another class that had to manage the in person -> at home transition and then did so with aplomb. A definite highlight would be the final. It was open notes, \"here are the problems, you have 24 hours to solve them\" and it"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_16",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 16,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "be the final. It was open notes, \"here are the problems, you have 24 hours to solve them\" and it was hard. I'm still dubious of my solution for one of them (graph coloring, but you can't be the same as any node within distance 2 instead of distance 1 - prove it's NP-Hard).\n\n> CS 514 + Farach-Colton: Graduate theory 2. One of my favorite classes I've ever taken at Rutgers. Absolute banger. Martin is awesome and incredibly entertaining and makes learning a joy. I can only wistfully imagine how much"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_17",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 17,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "awesome and incredibly entertaining and makes learning a joy. I can only wistfully imagine how much better it would have been in person, but this class was still awesome, and this professor is still awesome. Cannot overstate.\n\n------\n\nGeneral Tips:\nThere are three rounds of SPN applications. If you want to get into a class, apply to all three. Don't sleep. Also, put a little heart into them. I'm like 90% sure a human is reading those. I'm not sure if saying thanks or putting in a joke will actually"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_18",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 18,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "90% sure a human is reading those. I'm not sure if saying thanks or putting in a joke will actually make them pick you, but at least it'll make their day a little better.\n\nThe topic of the course is often less important than the work you'll have to do. Don't get sucked in by interesting course titles. The kind of work you'll be told to accomplish and the teacher that's lecturing and grading are often way more important to your enjoyment and grade than your initial interest in a subject. A really"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_19",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 19,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "way more important to your enjoyment and grade than your initial interest in a subject. A really good teacher can even make you like something you didn't before.\n\nFigure out if you're a theoretical CS/Math major or a code monkey. Not that those two are totally separate - there's plenty of overlapping people and courses. You can like both or hate both (though if you hate both you should drop out of CS tbh). Just, try to take 112, 205, and 206 as early as possible and use your experience in those courses"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_20",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 20,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "Just, try to take 112, 205, and 206 as early as possible and use your experience in those courses to guide what electives you try to take.\n\nWhen you have a question, ask the TAs. TAs are often awesome and get back to you very quickly. Similarly, don't be afraid to raise your hand and ask questions on a test. If you look at a problem on a test or on a homework and think \"it either means this or that but it's probably this so I'll just assume that's it\" then instead take 5 seconds to raise your hand"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_21",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 21,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "it's probably this so I'll just assume that's it\" then instead take 5 seconds to raise your hand and ask a TA if they can confirm you're right. Worst thing that happens is they say they can't help you with that.\n\nComment your code, don't delete it. Simple easy trick. Whenever you want to delete large amounts of code, just comment them out with block comments instead. That way you can always restore it or look at it for guidance.\n\nBeware of Sesh grading. Some teachers are of the opinion that you should"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_22",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 22,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "look at it for guidance.\n\nBeware of Sesh grading. Some teachers are of the opinion that you should write code precisely how they tell you to on line 46 of page 2 of the notes from recitation 3 - and if you don't, well, you obviously didn't study line 46 of page 2 of the notes from recitation 3, so you get full points off. Others believe that they shouldn't give you all the answers, and test if you can figure out how to tackle a novel problem. Figure out which kind your professor is early on, and"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_23",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 23,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "can figure out how to tackle a novel problem. Figure out which kind your professor is early on, and adapt your studying habits accordingly.\n\nLook out for Topics classes. Despite the high course numbers (442+ in my experience), these classes often have relatively low requirements. They're generally pretty chill, and you learn a lot about something you otherwise wouldn't. Be careful though. If it's approaching add/drop day and you're not getting good vibes, don't be afraid to drop.\n\nTL;DR\nLmao I made"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_24",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 24,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "add/drop day and you're not getting good vibes, don't be afraid to drop.\n\nTL;DR\nLmao I made a whole writeup use control-f.\n\nI'll leave notifs on so if the admins don't nuke this post I should be able to answer most question eventually.\n\nEdits:\na. Skipping courses can be annoying later down the line. I skipped Math 250, and now have to get prereq overrides when registering for like every single course and I never check so I go to apply with all my seniority credits but can't so then I have to apply"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_25",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 25,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "and I never check so I go to apply with all my seniority credits but can't so then I have to apply for an SPN and just like... ugh... if you've skipped a course, always remember to check your future courses for prereqs.\n\nb. On workload/time management: everyone is good at different things. I'm good at open-ended coding and algorithms. I'm really bad at memorization and fill-in-the-blank coding. 112, 314 and 344 combined were less time intensive than either of 352 or 444. Basically - the amount of"
+  },
+  {
+    "chunk_id": "advice_from_senior.txt_chunk_26",
+    "source": "advice_from_senior.txt",
+    "chunk_number": 26,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/",
+    "title": "My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May",
+    "text": "314 and 344 combined were less time intensive than either of 352 or 444. Basically - the amount of time you have to spend on a class will depend on what you do quickly/slowly. It's better to ask about the types of work you'll have to do, rather than how long it took other people to do that work."
+  },
+  {
+    "chunk_id": "best_worst_professors.txt_chunk_0",
+    "source": "best_worst_professors.txt",
+    "chunk_number": 0,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/u2bock/best_cs_professors_and_worst_cs_professors/",
+    "title": "Best CS Professors and worst CS Professors?",
+    "text": "I am trying to plan my next two years as a CS major and I want to keep track of who I should keep an eye out/avoid in terms of professors to take.\n\nCOMMENTS:\n\nBasically AVOID FRANNY THE CLOWN!!! \nGood professors are Santosh Nagarette, Miranda Garcia, Lily Chang, and Cowan the goat\n\nAs bad as Franny is, there are worse professors in our CS department. \nNot gonna name them for privacy reasons, but if you have taken any upper level or graduate level class at our department, you know who they are.\n\nMiranda’s"
+  },
+  {
+    "chunk_id": "best_worst_professors.txt_chunk_1",
+    "source": "best_worst_professors.txt",
+    "chunk_number": 1,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/u2bock/best_cs_professors_and_worst_cs_professors/",
+    "title": "Best CS Professors and worst CS Professors?",
+    "text": "taken any upper level or graduate level class at our department, you know who they are.\n\nMiranda’s ratings on RMP aren’t the best. \nI’m registered for a class he’ll be teaching so its good to hear he’s good!\n\nI haven’t taken many CS professors but from what I’ve heard: Centeno, Cowan, Santosh, Huang, Zhang, Michimizos, Ames are usually all great professors.\n\nAs for the not so good, I’ve heard Menendez and Francisco are sus\n\nSantosh is smart and helpful enough, but def harder than the other profs"
+  },
+  {
+    "chunk_id": "best_worst_professors.txt_chunk_2",
+    "source": "best_worst_professors.txt",
+    "chunk_number": 2,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/u2bock/best_cs_professors_and_worst_cs_professors/",
+    "title": "Best CS Professors and worst CS Professors?",
+    "text": "and Francisco are sus\n\nSantosh is smart and helpful enough, but def harder than the other profs imo.\n\nCowan is a king, Menny sucks\n\nMy favorite post here is Cowan roasting wrong answers on Chegg at the height of Covid cheating. \nHe's simply the best\n\nI like Centano, Menéndez, Cowan, and Kremer"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_0",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 0,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "Guys I have seen posts ranking CS electives by toughness. But I have never seen anyone rank the difficulty of the required classes.\n\nCS : 01:198:111, 112, 205, 206, 211, 344.\n\nMath : 01:640:151(Calc 1), 152(Calc 2), 250(Linear Algebra.\n\nI would really appreciate if you could rate the classes by difficulty on a scale of 1-10 and if you could specify what classes to not take together in the same semester.\n\nI would like to make this a thread that will help the future students as well.(a lot of my friends"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_1",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 1,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "I would like to make this a thread that will help the future students as well.(a lot of my friends have questions about these courses and their difficulty).\n\nThank you for everyone who contributed!\n\nCOMMENTS:\n\nGrad Algo vs Ug Algo :\nTypically grad algo courses will require background from 344, so it is best to get through 344 before attempting grad algo. Grad algo is available as :\n512 (the most basic grad course which still requires 344 background)\n513/514 - more advanced courses where the content"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_2",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 2,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "grad course which still requires 344 background)\n513/514 - more advanced courses where the content depends a lot on the instructor - 344 knowledge would be a prereq, but may not suffice always.\n344 : the algorithms course that is supposed to get you started with algorithms - with the objective of developing your algorithmic thinking (how to devise an algorithm for a given problem etc). \nA sizable portion at the beginning is dedicated to asymptotic notation and recurrence resolving.\nDifficulty - depends"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_3",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 3,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "at the beginning is dedicated to asymptotic notation and recurrence resolving.\nDifficulty - depends on the instructor (pretty much)\nYou really want to be careful with the choice of instructor for 344 if you can help it since algorithms are essential for interview prep as well as for any further grad courses in robotics/AI/ theory etc.\nGood picks - Sepehr Assadi (he is teaching 344 in spring 2021 and you will get to learn a lot from his 344), Aaron Bernstein, Wesley Cowan.\nAs for who to avoid, take"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_4",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 4,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "you will get to learn a lot from his 344), Aaron Bernstein, Wesley Cowan.\nAs for who to avoid, take a look at the teaching feedback on SIRS or ratemyprofessors.com- that should help you.\nMake sure to get all the help you may need from the teaching staff since this is definitely a \"coming of age\" course.\n344 may feel a little overwhelming since it is a big step in your development but the process will be rewarding in the long term. \nDefinitely rewarding in the long term. (In other words, brace yourselves"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_5",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 5,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "in the long term. \nDefinitely rewarding in the long term. (In other words, brace yourselves for growing pains)\nGood luck for your finals :)\n\nIm gonna recommend grad algo over algo. It's probably harder (but i dont know anyone whos taken both and can thus compare) but its one of the few classes where I didnt feel like I couldn't have just skimmed GeeksForGeeks instead.\n\nHow’d you prep for grad algo w/o reg ugrad algo? \nI’m a freshman rn so this isn’t rly relevant to me, but Im planning out my future"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_6",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 6,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "reg ugrad algo? \nI’m a freshman rn so this isn’t rly relevant to me, but Im planning out my future semesters and I did see a few other ppl recommend grad algo over ugrad algo. \nJust curious how you prepped Bc I’ve heard it’s very intensive and it assumes you know all of ugrad algo already.\n\nMeet your new best friend: https://mitpress.mit.edu/books/introduction-algorithms-third-edition\nIt's a pretty dense textbook, and honestly not that easy to go in without some familiarity with data structures and"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_7",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 7,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "textbook, and honestly not that easy to go in without some familiarity with data structures and some basic experience with the types of problems you'll experience, so don't get discouraged if it's confusing or overwhelming. \nA nice book to look at if you want to prep yourself for Intro to Algorithms is Cracking the Coding Interview.\nThat being said, those only cover the concepts. Algo 513 was mostly just proving stuff, which I had done before in Discrete 1 (and a little bit in math 477 which I took"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_8",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 8,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "proving stuff, which I had done before in Discrete 1 (and a little bit in math 477 which I took instead of Discrete 2, where I assume people did proofs too). \nI'm sure plenty of people have done algo without doing discrete first, but I did not, so it might have helped. You know what's best for you.\n\nNot CS major but for Math heres what I'd probably say:\nMath 151 - 7 Doable workload, but really have to prioritize staying on top of each topic and learning everything as you go rather than the night"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_9",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 9,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "to prioritize staying on top of each topic and learning everything as you go rather than the night before. Practice makes perfect.\nMath 152 - 8 Very similar to 151, except that the topics are a big more abstract and quite a few of the problems have more than 1 way to do them.\nMath 250 - 6 Very tedious course, but honestly not as bad as most other math courses. Primarily consists of much more calculations but all of them are basic arithmetic.\nKeep in mind all these ratings can also be influenced by"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_10",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 10,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "but all of them are basic arithmetic.\nKeep in mind all these ratings can also be influenced by what professor you have.\n\nWith 1 being easy and 10 being difficult...\n111: 3, possibly a 4 if you've never coded before or a 2 if you have\n112: 8\n205: 3, 4 if you're not a proof person\n206: 4\n211: 6, 7-8 if you don't pay attention to the memory management lectures\n344: 5, 8 if you take it with Kalantari (pro tip: don't)\nMath 151/152: did not take at Rutgers so can't judge but apparently these are pretty"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_11",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 11,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "tip: don't)\nMath 151/152: did not take at Rutgers so can't judge but apparently these are pretty hard\nMath 250: 3-4\n\nTbh if you slack off in 111 even if you know how to code beforehand you could possibly not get an A\n\nIt all depends on professors imo\n\nDo you have any idea what Bernstein is like for algo\n\nBernstein is pretty good. \nHe records his lectures. \nUsually 3 out the 4 problems are easy to medium level and 1 hard one. \nThen he usually gives like 10 to 15 points extra credit question on the"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_12",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 12,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "level and 1 hard one. \nThen he usually gives like 10 to 15 points extra credit question on the hws and exams. \n2 take home exams non cumulative. Exams are almost like homework. \nHe will tell you which questions on the exams is similar to the hws. \nHis grading scale is lenient. \nOne semester 89 is an A, 49 IS C and my semester 86 is an A, 47 is C.\n\nSo my tips are as follows:\nRegarding CS:\n111: Moderate IF YOU HAVE prior Java experience. Otherwise, this class can be pain.\n112: Concepts aren't bad."
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_13",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 13,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "IF YOU HAVE prior Java experience. Otherwise, this class can be pain.\n112: Concepts aren't bad. Very useful for interviews, but assignments are a pain. START THEM EARLY.\n211: Hard. Nothing more than it. It's C programming and low-level and you learn about the inner workings of a computer. Interesting but the assignments are very meticulous because debugging in a low level language can be difficult.\n205: Subjective. It's a math class but a different kind of math. If proofs and math are your strong"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_14",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 14,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "205: Subjective. It's a math class but a different kind of math. If proofs and math are your strong suit, the class is easy. Otherwise, it's hard. Also depends on professor. Guna was hard.\n206: It's all probability. It mainly depends on the professor. Cowan is really hard but really good. Insightful lectures no midterm no final, but homeworks are extremely hard.\n344: Kind of hard but an important class. It's a math class and you do proofs. Took it with Zhang so wasn't very difficult, but heard different"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_15",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 15,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "a math class and you do proofs. Took it with Zhang so wasn't very difficult, but heard different things about Bernstein and Assadi.\nMath:\n151: Moderately hard. Do the problems and stay on top of things.\n152: Much harder, but still, staying on top of things is the best thing to do.\n250: Easier than Calc, but still takes time.\nMost of these classes take time. Some classes, however, can take time or be extremely easy depending on how the professor runs the class so choose wisely. Even if a class is"
+  },
+  {
+    "chunk_id": "courses_by_difficulty.txt_chunk_16",
+    "source": "courses_by_difficulty.txt",
+    "chunk_number": 16,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/",
+    "title": "CS classes by difficulty",
+    "text": "extremely easy depending on how the professor runs the class so choose wisely. Even if a class is hard, it teaches you how to prepare for the real world: thinking, being perserverant, putting time, talking to people about problems, because in the real world, that's how life is."
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_0",
+    "source": "cs_quality.txt",
+    "chunk_number": 0,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "i am international student from India ( ofcourse). I am trying to make up my mind between Virginia Tech and Rutgers. Recently, I have read a lot of posts and comments regarding the CS program at Rutgers becoming shitty due to profs leaving.\n\nThe COA at VT will be around 62K for 2024 and I think for Rutgers it would be 50K for 2024 however I could not find proper data on it.\n\nI am just so confused right now!! I very well-known after all its about networking and projects, but I do not want to go to"
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_1",
+    "source": "cs_quality.txt",
+    "chunk_number": 1,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "now!! I very well-known after all its about networking and projects, but I do not want to go to RU if I will actually be disadvantaged when I find a job. My parents are paying HUGE AMOUNTS for my education, I hope to find internships in freshman year to ease it off. Do you think RU will help me do that? using career fairs maybe? coz VT has great career fairs ive heard.\n\nI do know internships as freshman is sorta impossible. But I feel I can pull it off I am well-versed with Java and OOPs, Web dev"
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_2",
+    "source": "cs_quality.txt",
+    "chunk_number": 2,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "is sorta impossible. But I feel I can pull it off I am well-versed with Java and OOPs, Web dev ( laravel and php) and lil of dsa ( i know how to reverse a linked list lol).\n\nWELL! any help would be appreciated..mainly how should i approach this decision? should i think about the fees? or quality? thanks again.\n\nCOMMENTS:\n\nRutgers is pretty good and there are many people who get those high demand internships and jobs such as Amazon.\n\nYes it is true that many professors have left and are slowly being"
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_3",
+    "source": "cs_quality.txt",
+    "chunk_number": 3,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "and jobs such as Amazon.\n\nYes it is true that many professors have left and are slowly being replaced with grad students and former TAs but there are still a lot of great educational opportunities available.\n\nInternship as a freshman is nearly impossible only because most (80-90%) of companies just don't want to hire freshmen. \nIf you find the right company and/or market yourself right, yes for sure you can get one. \nThis also comes with emailing/ reaching out to the recruiter rather than trying"
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_4",
+    "source": "cs_quality.txt",
+    "chunk_number": 4,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "you can get one. \nThis also comes with emailing/ reaching out to the recruiter rather than trying to go through the standard application process because you will most definitely get filtered out, regardless of how good your resume is, otherwise.\n\nBetter location = better internships; Rutgers has a higher rank than Virginia tech; Rutgers is cheaper for you. Obvious choice.\n\nNeither. Go to Indian universities. \nDifficult to get job or internship for international students due to immigration issues"
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_5",
+    "source": "cs_quality.txt",
+    "chunk_number": 5,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "Difficult to get job or internship for international students due to immigration issues\n\nAt the end of the day university is what you make of it. I can’t talk about Virginia tech. However at Rutgers there is little to no hand holding. \nIf you succeed academically it’s literally because of you and you alone. This school has like 50k students. It wouldn’t be possible to hold your hand.\n\nThe professors teach the material to give you the tools you need, you then get the project and there’s stuff you"
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_6",
+    "source": "cs_quality.txt",
+    "chunk_number": 6,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "teach the material to give you the tools you need, you then get the project and there’s stuff you need to figure out on your own to get it working. \nSure there’s resources, but it’s up to you to actively seek it out.\n\nThe CS program is completely what you make of it at pretty much any school.\n\nWhen it comes to getting a job or internship, 99% of time what school you went to means absolutely nothing. \nAnd the majority of that 1% of the time it does matter it’ll just be because the person hiring you"
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_7",
+    "source": "cs_quality.txt",
+    "chunk_number": 7,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "And the majority of that 1% of the time it does matter it’ll just be because the person hiring you also went to that school.\n\nLearn as much as you can outside of class (in addition to what you’re learning in class) and work on your own projects and you’ll be fine no matter what school you went to.\n\nAs someone who has been back to Rutgers to work a table at the career fair for my company no matter how stacked your resume is for CS you won’t stand out at all, everyone has resumes like that now (of"
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_8",
+    "source": "cs_quality.txt",
+    "chunk_number": 8,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "stacked your resume is for CS you won’t stand out at all, everyone has resumes like that now (of course many are lying but doesn’t mean anything when you’re just talking at the table). \nUnless you did something that specifically related to what the company does you’re just another CS major. \nHowever that doesn’t mean you can’t get a job/internship, just for 99% of the people you won’t be finding a job at the career fair, which is fine.\n\nInternships are hard as a freshman so if you can’t get one just"
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_9",
+    "source": "cs_quality.txt",
+    "chunk_number": 9,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "at the career fair, which is fine.\n\nInternships are hard as a freshman so if you can’t get one just work on a big project on your own that’s related to what a company you want an internship as does and try again the next year to increase your chances.\n\nThis is not true at all, what school you went to matters a ton for your first job and internship. \nAnd you can find a job at the career fair, it's tough but the companies literally wouldn't come if they had zero intention of hiring. \nYou just can't"
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_10",
+    "source": "cs_quality.txt",
+    "chunk_number": 10,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "but the companies literally wouldn't come if they had zero intention of hiring. \nYou just can't be some mediocre student with a mid GPA, zero work experience zero non schoolwork projects and zero charm and expect to find an internship by chucking a resume into a pile\n\nThat being said the difference between VT and Rutgers probably isn't enough to justify paying a lot in extra tuition\n\nIt’s actually 100% true.\nWhat school you went to does not matter at all 99% of the time.\nYou can find a job or internship"
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_11",
+    "source": "cs_quality.txt",
+    "chunk_number": 11,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "What school you went to does not matter at all 99% of the time.\nYou can find a job or internship at a job or career fair, but the companies all go to multiple schools and many hundreds if not thousands of people are competing for maybe a few dozen jobs at the company or sometime only a few, so your statistical probability of being hired from the career fair is objectively low.\n\nCurrent student I have well knowledge in java I’ve worked in the industry as well but the teacher here suck … don’t waste"
+  },
+  {
+    "chunk_id": "cs_quality.txt_chunk_12",
+    "source": "cs_quality.txt",
+    "chunk_number": 12,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/",
+    "title": "The Quality of Computer Science at Rutgers",
+    "text": "well knowledge in java I’ve worked in the industry as well but the teacher here suck … don’t waste your time … my sibling when to school here 6 years ago when it was worth it and they had good teachers she been and she’s wealthy now but I have spoken to her and she’s upset on how the quality of education has diminished"
+  },
+  {
+    "chunk_id": "cs_research_opportunities.txt_chunk_0",
+    "source": "cs_research_opportunities.txt",
+    "chunk_number": 0,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/152i9se/cs_research_opportunities/",
+    "title": "CS Research Opportunities",
+    "text": "Hey everyone,\nI'm interested in learning about any CS research opportunities or ways to get involved in CS research. \nI would like to keep grad school as an option after I graduate, but I currently lack any research experience and plan to graduate early (I have 2 more years left). \nI applied to the Aresty RA program but was not accepted (I applied as a freshman and struggled to find positions which I met all the prerequisites for). \nAlso, I couldn't apply for the summer research program this year"
+  },
+  {
+    "chunk_id": "cs_research_opportunities.txt_chunk_1",
+    "source": "cs_research_opportunities.txt",
+    "chunk_number": 1,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/152i9se/cs_research_opportunities/",
+    "title": "CS Research Opportunities",
+    "text": "I met all the prerequisites for). \nAlso, I couldn't apply for the summer research program this year due to my summer classes. \nSo, I'm wondering if any of you have any suggestions for finding research opportunities. Thanks!\n\nCOMMENTS:\n\nSometimes the Rutgers CS department emails out notifications about new jobs.\nThese include student programmers and CS research assistant positions. \nIf you do not get these emails, you can find them on https://resources.cs.rutgers.edu/jobs/ . \nIt's empty right now"
+  },
+  {
+    "chunk_id": "cs_research_opportunities.txt_chunk_2",
+    "source": "cs_research_opportunities.txt",
+    "chunk_number": 2,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/152i9se/cs_research_opportunities/",
+    "title": "CS Research Opportunities",
+    "text": "these emails, you can find them on https://resources.cs.rutgers.edu/jobs/ . \nIt's empty right now but will populate when new positions are open and disappear once filled.\nAlso I believe you can find opportunities through the Rutgers CS discords or talk to the individual professors about your situation.\n\nI applied to a bunch of CS job openings, including TA positions, tutoring, and programming jobs, but was rejected from everything. \nCould it be because I was a freshman, or are they just super competitive?"
+  },
+  {
+    "chunk_id": "cs_research_opportunities.txt_chunk_3",
+    "source": "cs_research_opportunities.txt",
+    "chunk_number": 3,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/152i9se/cs_research_opportunities/",
+    "title": "CS Research Opportunities",
+    "text": "from everything. \nCould it be because I was a freshman, or are they just super competitive? I have a good GPA and about a year of SWE work experience.\n\nProbably a bit of both. I've only known one freshman who became a TA but even then, the positions themselves are just super competitive in general.\nYou best bet for any sort of opportunity is to directly email the professors and make a case for yourself.\n\nCold email professors who have research projects. It doesn't have to be CS professors cuz most"
+  },
+  {
+    "chunk_id": "cs_research_opportunities.txt_chunk_4",
+    "source": "cs_research_opportunities.txt",
+    "chunk_number": 4,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/152i9se/cs_research_opportunities/",
+    "title": "CS Research Opportunities",
+    "text": "Cold email professors who have research projects. It doesn't have to be CS professors cuz most labs will benefit from some coding and stuff so if you happen to be interested in biology or chemistry go do some research there also because there is a lot of data analytics and stuff they use.\nAlso, you gotta be alright with doing free labor in research. You'll have better odds doing research with a professor for a few months and then asking if they can get a grant or something. \nWhat professor is gonna"
+  },
+  {
+    "chunk_id": "cs_research_opportunities.txt_chunk_5",
+    "source": "cs_research_opportunities.txt",
+    "chunk_number": 5,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/152i9se/cs_research_opportunities/",
+    "title": "CS Research Opportunities",
+    "text": "for a few months and then asking if they can get a grant or something. \nWhat professor is gonna use up his funding to pay some random undergrad with barely any experience? \nIt makes no sense from their end. Also, I personally think Aresty is a scam but that's probably just cuz I got rejected from it but I wouldn't bother with it to be honest.\n\nI’m totally fine with doing the “dirty work” for free or whatever it takes to get some experience. When do you think is the best time to email professors?"
+  },
+  {
+    "chunk_id": "cs_research_opportunities.txt_chunk_6",
+    "source": "cs_research_opportunities.txt",
+    "chunk_number": 6,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/152i9se/cs_research_opportunities/",
+    "title": "CS Research Opportunities",
+    "text": "whatever it takes to get some experience. When do you think is the best time to email professors? Right now? At the beginning of the semester?\n\nYea just start sending them out now and ask for positions in the fall. There might be some training or logistics to get sorted out before the year starts. Also, specify unpaid or volunteer in your emails. Wish you luck!\n\nDo well in a course taught by a faculty member and then mail them. You can also read the research papers and then write to them summarizing"
+  },
+  {
+    "chunk_id": "cs_research_opportunities.txt_chunk_7",
+    "source": "cs_research_opportunities.txt",
+    "chunk_number": 7,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/152i9se/cs_research_opportunities/",
+    "title": "CS Research Opportunities",
+    "text": "member and then mail them. You can also read the research papers and then write to them summarizing why you want to work in that particular area or problem."
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_0",
+    "source": "cs_success.txt",
+    "chunk_number": 0,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "“Succeeding in Rutgers Computer Science” by Vaibhav Verma\n\nARTICLE:\n\nI spent 5 years in the Computer Science BS-MS program. I was a peer mentor for CS111 for 3 years.\n\nI’ve met a wide range of students in the CS department. I’ve helped students with assignments, and explained concepts to them over and over again. This blog post explains the patterns for success and failure that I have noticed.\n\nYour performance in intro courses is incredibly important. Develop a good mental model of programming early"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_1",
+    "source": "cs_success.txt",
+    "chunk_number": 1,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "in intro courses is incredibly important. Develop a good mental model of programming early in your coursework.\nA good performance in the intro courses builds the foundation for your CS knowledge. Without it, you are as useful as a mathematician that cannot add fractions, or solve linear equations.\n\nBy the time you get through CS111, you should have a clear mental model of how problem solving is accomplished through code. It’s easy to get distracted as a 111 student by the complexities of Java, Eclipse,"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_2",
+    "source": "cs_success.txt",
+    "chunk_number": 2,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "through code. It’s easy to get distracted as a 111 student by the complexities of Java, Eclipse, jEdit, your weekly assignments, and course project. This is especially true if you come to 111 with no programming experience. It might feel like all you’re doing is staying afloat week after week, assignment after assignment, milestone after milestone. Someone tells you that using Eclipse is good/bad. Someone tells you that you should put curly braces on the same line as a function, as opposed to putting"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_3",
+    "source": "cs_success.txt",
+    "chunk_number": 3,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "tells you that you should put curly braces on the same line as a function, as opposed to putting it on its own line. It can be very overwhelming.\n\nIf at the end of 111, you are able to take a problem given to you, think about how it’s solved, write code to solve it, and debug your code until it works, you have done well. This seems like a hard thing to measure, so I’m going to give you a couple of litmus tests to gauge your performance.\n\nConsider the problem below:\n\nWrite a program that prints the"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_4",
+    "source": "cs_success.txt",
+    "chunk_number": 4,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "tests to gauge your performance.\n\nConsider the problem below:\n\nWrite a program that prints the numbers from 1 to 100. But for multiples of three print Lemon instead of the number and for the multiples of five print Juice. For numbers which are multiples of both three and five print LemonJuice.\n\nHere is what the output of the program looks like from 1 to 20.\n\n1\n2\nLemon\n4\nJuice\nLemon\n7\n8\nLemon\nJuice\n11\nLemon\n13\n14\nLemonJuice\n16\n17\nLemon\n19\nJuice\nThis problem should be a breeze for you after 111. If"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_5",
+    "source": "cs_success.txt",
+    "chunk_number": 5,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "Lemon\n13\n14\nLemonJuice\n16\n17\nLemon\n19\nJuice\nThis problem should be a breeze for you after 111. If you cannot write code to solve this in 30 minutes, without someone’s help, you are in trouble.\n\nHere is another litmus test. If you can solve the first 5 problems on Project Euler without any help, you have learned problem solving. You can start worrying about other things. If you can’t do these problems, you need to spend more time learning to problem solve, writing code, and debugging code. You will"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_6",
+    "source": "cs_success.txt",
+    "chunk_number": 6,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "you need to spend more time learning to problem solve, writing code, and debugging code. You will not get very far in a CS degree before you do this.\n\nYou can write code to solve a Project Euler problem, and submit the solution by creating an account. This is also a great way to learn a new programming language (This is how I learned the basics of Python).\n\nData Structures is incredibly important.\nData Structures develops on your understanding of problem solving from 111 and teaches you about clever"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_7",
+    "source": "cs_success.txt",
+    "chunk_number": 7,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "Structures develops on your understanding of problem solving from 111 and teaches you about clever ways in which programmers manipulate data, and algorithms.\n\nYou need to know Data Structures to write C code (CS211 — Computer Architecture, and CS214 — Systems Programming).\nYou need to know Data Structures to do well in Algorithms (CS344).\nYou need to know Data Structures to get through a tech interview.\nYou can ask any upperclassman what they think the most important CS course is, and Data Structures"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_8",
+    "source": "cs_success.txt",
+    "chunk_number": 8,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "You can ask any upperclassman what they think the most important CS course is, and Data Structures will almost certainly be one of their top 3.\n\nThe Story of 50% of the students in CS112\nNow, let me tell you the story of Alice. Alice is a metaphorical student that represents 50% of the CS112 roster.\n\nAlice took CS111, did fairly well in it (got better than a B). In 111, Alice often found it hard to listen to the professor in lecture. Every once in a while, she zoned out, and couldn’t figure out what"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_9",
+    "source": "cs_success.txt",
+    "chunk_number": 9,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "to the professor in lecture. Every once in a while, she zoned out, and couldn’t figure out what Tjang or Sesh was saying. She went home, looked at the weekly assignment, and finished it (perhaps with some help from a friend, TA, or someone at the iLabs). Since every concept in lecture was reinforced in a weekly assignment, she understood most of the material that was covered in 111.\n\nWhen Alice took 112, she followed a similar path. Tjang/Sesh was lecturing about Heaps, Linked Lists, Graphs, Tail"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_10",
+    "source": "cs_success.txt",
+    "chunk_number": 10,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "112, she followed a similar path. Tjang/Sesh was lecturing about Heaps, Linked Lists, Graphs, Tail Recursion, Efficiency Analysis of Insertion Sort etc. She went on Facebook on her laptop/got a text from a roommate, subequently zoned out in class, and quickly lost track of what the professor was saying. Alice went home, there was a project due in two weeks. Alice worked very hard on the project. She definitely had some issues along the way, but she was able to ask Sesh/TAs/peers/people at the iLabs"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_11",
+    "source": "cs_success.txt",
+    "chunk_number": 11,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "had some issues along the way, but she was able to ask Sesh/TAs/peers/people at the iLabs for help and get it done. She got an 85+ on all the 5 projects in CS112. Alice got around a 50 on both Data Structures exams, ended Data Structures with a C/C+, and moved on.\n\nAlice is the canonical example of a student that does poorly in the Rutgers CS degree, and here’s why.\n\nIn 111, Alice had projects every week that forced her to learn material. The only thing in 112 that forces you to learn material is"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_12",
+    "source": "cs_success.txt",
+    "chunk_number": 12,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "week that forced her to learn material. The only thing in 112 that forces you to learn material is the exam, and that happens twice a semester. Sometimes, the first 112 exam is so early in the semester that there’s very little material covered on it. This means that the final covers a ton of material, and because Alice has been zoning out of 112 lecture on a regular basis, she does not know why Heapify is O(n), or why you would want to use a min heap as a frontier when implmenting Dijkstra’s shortest"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_13",
+    "source": "cs_success.txt",
+    "chunk_number": 13,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "is O(n), or why you would want to use a min heap as a frontier when implmenting Dijkstra’s shortest path algorithm.\n\nIn order to avoid Alice’s pitfalls, you need to make sure that you understand every concept in Data Structures. Practically every sentence that Sesh or Tjang says in 112 is important. I understand that you are human, and cannot keep perfect concentration in an 80 minute lecture. But you need to be proactive about understanding all the concepts that are covered. This means that if you"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_14",
+    "source": "cs_success.txt",
+    "chunk_number": 14,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "need to be proactive about understanding all the concepts that are covered. This means that if you zoned out in the lecture about AVL Trees, you still need to make sure you learn it. You can go read the textbook after class. You can look up the material online. There’s some very good online courses that cover data structures. I strongly recommend the lectures from Stanford’s Programming Abstractions course. You can ask upperclassmen to explain the concept to you.\n\nYou need to do this before the day"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_15",
+    "source": "cs_success.txt",
+    "chunk_number": 15,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "You can ask upperclassmen to explain the concept to you.\n\nYou need to do this before the day of your data structures exam, because the course covers a lot of important material, and you cannot learn all of it in a day.\n\nPick classes carefully, especially after the intro sequence.\n1. Pay close attention to the professor that’s teaching the class.\nDon’t take a class just because the professor is easy. By doing this, you are learning nothing, and wasting both time and tuition dollars.\nUnderstand that"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_16",
+    "source": "cs_success.txt",
+    "chunk_number": 16,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "By doing this, you are learning nothing, and wasting both time and tuition dollars.\nUnderstand that a lot of the professors teaching you haven’t written a line of code in 15+ years. They cannot and will not teach you web or mobile app development. If they attempt to teach you this stuff, their material will likely be outdated and poorly researched.\nThe theoretical classes are challenging and will require mental discipline. I highly recommend everything being taught by Martin Farach-Colton, William"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_17",
+    "source": "cs_success.txt",
+    "chunk_number": 17,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "mental discipline. I highly recommend everything being taught by Martin Farach-Colton, William Steiger, or Eric Allender. These were my favorite professors. Their classes were engaging, memorable, and had challenging material.\n2. Prerequisites don’t matter\nIf you’ve done well in 111, 112, 211 and 205, you can take any other class in the department — even a graduate class.\nDo you see Uli Kremer (an excellent compilers professor) teaching next semester? Take his class even though you haven’t taken"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_18",
+    "source": "cs_success.txt",
+    "chunk_number": 18,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "excellent compilers professor) teaching next semester? Take his class even though you haven’t taken 314.\nBut V! I’m not smart. Everyone in this class is going to have an edge on me. I’m going to get a bad grade, lose my scholarship, and end up on the streets. Here’s what I have to say to this — 50% of the people taking a class don’t learn a thing. At the end of CS112, I want you to ask 10 of your classmates if they can implement a hash table. At the beginning of 211 and 214, I want you to look around"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_19",
+    "source": "cs_success.txt",
+    "chunk_number": 19,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "if they can implement a hash table. At the beginning of 211 and 214, I want you to look around you as they struggle to implement one in C. They’re not learning in 112, and they’re not learning in the prerequisite courses that you want to skip. They will have no edge over you.\nYou will feel more challenged in a course if you take it without a prerequisite, but as long as you’re proactive about brushing up on material you don’t know, you’ll do just fine.\nLogistics — you can’t register for a course"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_20",
+    "source": "cs_success.txt",
+    "chunk_number": 20,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "up on material you don’t know, you’ll do just fine.\nLogistics — you can’t register for a course on webreg if you haven’t taken the prereqs. Send the prof an email to get a prereq override — tell them you’re interested in the material, and you’ll put extra time and learn stuff you don’t know.\n3. Stop focusing on grades. Focus on concepts you’re learning\nThe classes I loved the most were the ones in which I was engaged by the professor’s lectures and assignments.\nI took Operating Systems with a smart"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_21",
+    "source": "cs_success.txt",
+    "chunk_number": 21,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "I was engaged by the professor’s lectures and assignments.\nI took Operating Systems with a smart but boring professor. I was not engaged in lecture, but his assignments, exams were easy so I got an A. I regret wasting my time, because my grade did not reflect my knowledge of OS.\nI have friends that took OS with Ricardo Bianchini. Their assignments and exams were much harder, and they spent much more time on coursework. Most of them did not get As — but they learned far more about OS than I did.\nIf"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_22",
+    "source": "cs_success.txt",
+    "chunk_number": 22,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "time on coursework. Most of them did not get As — but they learned far more about OS than I did.\nIf your goal is to learn OS, don’t waste your time in a course that doesn’t teach you OS.\nIf your goal is to get a piece of paper with your name on it, and “Bachelors in Computer Science” under it, this advice isn’t for you. I loved learning about the hard problems in computer science from incredibly smart people that were experts in these fields.\n\nIf you are not branching out from the material you learn"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_23",
+    "source": "cs_success.txt",
+    "chunk_number": 23,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "people that were experts in these fields.\n\nIf you are not branching out from the material you learn in class, you will have a hard time getting hired as a developer.\nYour professors haven’t written code in 15+ years. They’re not going to teach you how to develop software — don’t waste your time taking CS431.\n\nStart writing code in your free time to solve any problem that you have. I wrote RUBUS when I was in 112. I used to maintain static web pages for a board game my roommate played with his high"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_24",
+    "source": "cs_success.txt",
+    "chunk_number": 24,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "I was in 112. I used to maintain static web pages for a board game my roommate played with his high school friends. Everyone that’s good at programming has put in lots of time into it, and you will need to do the same.\n\nTalk to upperclassmen about ideas you have, and the things that they’ve built. Hang out in the CAVE, attend USACS events, and go to hackathons. All of this experience will add up, and help you land your first paid programming gig.\n\nGet paid to write code as early as possible.\nWhen"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_25",
+    "source": "cs_success.txt",
+    "chunk_number": 25,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "help you land your first paid programming gig.\n\nGet paid to write code as early as possible.\nWhen I started taking CS classes, I didn’t understand why people got paid to sit at a computer and write for-loops. I thought the mysterious, legendary developers getting internships and part time jobs must know so much more about the web/mobile apps/algorithms. This is a classic case of impostor syndrome, and it creates a mental roadblock until you get paid to write code.\n\nUse your summers for internships"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_26",
+    "source": "cs_success.txt",
+    "chunk_number": 26,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "it creates a mental roadblock until you get paid to write code.\n\nUse your summers for internships or part time work (not for folding clothes). For your first development job, I recommend Student System Administration at OSS, System Administration at LCSR (under Doug Motto), an internship at Too Much Media, or HackNY if you are lucky. You’ll want to do a more traditional tech internship at companies like Microsoft, Google or Etsy, but you’ll have an easier time getting these once you have some experience."
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_27",
+    "source": "cs_success.txt",
+    "chunk_number": 27,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "Google or Etsy, but you’ll have an easier time getting these once you have some experience. If you hang around CS folks, you’ll hear about such opportunities frequently. Apply early and often — you’ll have an easier time in October than in April.\n\nParticipate in the community\nThe Rutgers CS community, while not perfect, has grown a great deal over the last few years. You’ve got access to events like HackRU, HackNY, PennApps, and HackTCNJ. You’ve got access to the CAVE, the Hackerspace, and the Makerspace."
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_28",
+    "source": "cs_success.txt",
+    "chunk_number": 28,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "HackNY, PennApps, and HackTCNJ. You’ve got access to the CAVE, the Hackerspace, and the Makerspace. USACS, RuMAD and the Rutgers Hackathon Club are active, and full of smart people. People taking the same classes as you have gone on to amazing jobs, start companies, and sell companies. Start reading hacker news, and /r/programming.\n\nDon’t forget to give back to the community. Teach CS111 recitation. Join the USACS board, and help plan events. Hang out at the CAVE and help underclassmen understand"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_29",
+    "source": "cs_success.txt",
+    "chunk_number": 29,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "Join the USACS board, and help plan events. Hang out at the CAVE and help underclassmen understand difficult concepts. Help the noobs out at hackathons.\n\nMake friends out of your peers. Impossible looking homework assignments will become easier. You’ll spend a silly amount of timeworking on a CTF challenge, or writing a game. You’ll get one letter Github usernames together. After college, they’ll help you find jobs and offer you their couches.\n\nRutgers is a great place to study Computer Science,"
+  },
+  {
+    "chunk_id": "cs_success.txt_chunk_30",
+    "source": "cs_success.txt",
+    "chunk_number": 30,
+    "source_type": "Medium",
+    "url": "https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb",
+    "title": "Guest",
+    "text": "you find jobs and offer you their couches.\n\nRutgers is a great place to study Computer Science, and I hope your time there will be as memorable as mine was."
+  },
+  {
+    "chunk_id": "easy_cs_electives.txt_chunk_0",
+    "source": "easy_cs_electives.txt",
+    "chunk_number": 0,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/",
+    "title": "What are the easiest electives for the BS Computer Science degree?",
+    "text": "Title is self-explanatory, but which electives that count towards the BS Computer Science degree are the easiest/require the least effort?\n\nCOMMENTS:\n\nIf Python and ML are what interest you, take CS 210 and CS 439. \nBoth those classes are relatively straightforward. \n336 is straightforward as well. \nOther than that, however, most CS electives are meant to be time consuming and project heavy (classes like 461, 440, 213, 214). \nHowever, even though those classes can be hard, they can prove useful for"
+  },
+  {
+    "chunk_id": "easy_cs_electives.txt_chunk_1",
+    "source": "easy_cs_electives.txt",
+    "chunk_number": 1,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/",
+    "title": "What are the easiest electives for the BS Computer Science degree?",
+    "text": "461, 440, 213, 214). \nHowever, even though those classes can be hard, they can prove useful for your career.\n\nCS 336: Prin Info/ Data Mgmt\nPhilosophy Minds, Machines Persons: Can only do 2 non-CS electives total to count towards BS. This is a pretty light, fun, and easy one.\nMath 354 Linear Optimization: Requires little knowledge of linear algebra if you forgot it. Pretty decently easy course, requires little effort.\nCS 314: Principles of Programming languages. Honorable mention, easy when taught"
+  },
+  {
+    "chunk_id": "easy_cs_electives.txt_chunk_2",
+    "source": "easy_cs_electives.txt",
+    "chunk_number": 2,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/",
+    "title": "What are the easiest electives for the BS Computer Science degree?",
+    "text": "little effort.\nCS 314: Principles of Programming languages. Honorable mention, easy when taught by professor Kremer. Unfortunately seems he only teaches it like once ever 4-5 years and last time he taught it was last year so we'll have to see.\nThe rest require a lot more effort and I can't say are too easy. Definitely should not take only easy classes though. CS213 is quite challenging but probable one of the more useful courses if you want a career in software engineering.\n\nI've only heard terrible"
+  },
+  {
+    "chunk_id": "easy_cs_electives.txt_chunk_3",
+    "source": "easy_cs_electives.txt",
+    "chunk_number": 3,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/",
+    "title": "What are the easiest electives for the BS Computer Science degree?",
+    "text": "of the more useful courses if you want a career in software engineering.\n\nI've only heard terrible things about linear optimization.\n\nMy junior friends are saying terrible things about linear optimization\nLast semester's professors were both good and I've only heard decent things at worst about the classes.\nI'm pretty sure there's a post from a week ago criticizing the class on this subreddit.\n\nIt took it a year ago, it was the most boring and tedious class I’ve had. \nYou basically just iterate over"
+  },
+  {
+    "chunk_id": "easy_cs_electives.txt_chunk_4",
+    "source": "easy_cs_electives.txt",
+    "chunk_number": 4,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/",
+    "title": "What are the easiest electives for the BS Computer Science degree?",
+    "text": "it a year ago, it was the most boring and tedious class I’ve had. \nYou basically just iterate over a matrix according to rules akin to linear algebra, but very precise dependent upon the values in the matrix.\nThe entire course is a snooze fest; there’s nothing interesting happening. \nYou literally spend the entire time doing mind numbing calculations over a 6x10 matrix or something similar. \nI wouldn’t recommend it unless you just want to spend your time crunching numbers (some people took pride"
+  },
+  {
+    "chunk_id": "easy_cs_electives.txt_chunk_5",
+    "source": "easy_cs_electives.txt",
+    "chunk_number": 5,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/",
+    "title": "What are the easiest electives for the BS Computer Science degree?",
+    "text": "recommend it unless you just want to spend your time crunching numbers (some people took pride in their ability to do mental math on fractions… I take pride in never having to do such mind numbing work again).\n\nI wouldn't say 314 is \"easy\", I took it with Kremer last year and ended up dropping it halfway thru the semester because it was getting too confusing.\n\nI wouldn't do lin opt unless you're trying to check off math requirements as well, since it is extremely tedious, although not conceptually"
+  },
+  {
+    "chunk_id": "easy_cs_electives.txt_chunk_6",
+    "source": "easy_cs_electives.txt",
+    "chunk_number": 6,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/",
+    "title": "What are the easiest electives for the BS Computer Science degree?",
+    "text": "to check off math requirements as well, since it is extremely tedious, although not conceptually hard.\n\nI mean most math courses are tedious, especially since the upper level math takes like 30 minutes for 1 problem.\nBut yeah definitely something to avoid if you're not strong in math or looking for a math degree.\nStill definitely an easier course than a lot of other CS electives\n\nIs Rutgers CS more about tech or theory?\ndefinitely more theory-leaning.\nWhy is it like that if most tech jobs involve"
+  },
+  {
+    "chunk_id": "easy_cs_electives.txt_chunk_7",
+    "source": "easy_cs_electives.txt",
+    "chunk_number": 7,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/",
+    "title": "What are the easiest electives for the BS Computer Science degree?",
+    "text": "about tech or theory?\ndefinitely more theory-leaning.\nWhy is it like that if most tech jobs involve very little theory?\nIt’s not a software engineering major. \nIt’s a computer science major. \nCS is theory based and formulated the foundations of modern computer software. \nIt’s not designed to get you a job in SWE, but it gives you the fundamental skills for you to then make the effort to go into any sub field of CS as your career (if you pick the right courses)."
+  },
+  {
+    "chunk_id": "minor_recommendations.txt_chunk_0",
+    "source": "minor_recommendations.txt",
+    "chunk_number": 0,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1fioy6g/people_with_computer_science_majors_what_minors/",
+    "title": "People with Computer Science majors, what minors have you chosen or you recommend?",
+    "text": "I am declaring BS in CS and planning to do a minor. \nBut I wanted some recommendations that which minors are helpful or overlap with my major’s course requirements, which is BS in computer science as in this case. help this poor freshman please\n\nCOMMENTS:\n\nBest: Mathematics\nPersonal preference: Astronomy, Astrobiology, Meteorology\nPopular (but useless) choice: Data Science\nLess popular (but useful) option: statistics\nI am doing Astrobiology minor btw\n\nOhh! I’m planning to do either Astronomy or Leadership"
+  },
+  {
+    "chunk_id": "minor_recommendations.txt_chunk_1",
+    "source": "minor_recommendations.txt",
+    "chunk_number": 1,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1fioy6g/people_with_computer_science_majors_what_minors/",
+    "title": "People with Computer Science majors, what minors have you chosen or you recommend?",
+    "text": "I am doing Astrobiology minor btw\n\nOhh! I’m planning to do either Astronomy or Leadership in Communications as minor. \nI searched up that instead of astrophysics as minor they offer you as Astronomy but yeah\n\nGood choice. Minor in whatever you like to explore.\n\nWhat do you think about physics?\n\nPhysics works too. As I said before, minor in something you enjoy.\n\nPopular courses that go well with a Computer Science major are Data Science, Information Technology, and Mathematics.\nYou can learn more"
+  },
+  {
+    "chunk_id": "minor_recommendations.txt_chunk_2",
+    "source": "minor_recommendations.txt",
+    "chunk_number": 2,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1fioy6g/people_with_computer_science_majors_what_minors/",
+    "title": "People with Computer Science majors, what minors have you chosen or you recommend?",
+    "text": "Science major are Data Science, Information Technology, and Mathematics.\nYou can learn more about important ideas in computer science and improve your skills for possible job opportunities in the field by pursuing these courses.\n\nIm also a cs freshman, a minor in math has by far the most overlap, it’s possible to get the math minor by only having to take 1 extra class (calc3) (you’d need to take math 300 and 477 instead of discrete 1 and 2, and two of your cs electives would need to be math)\n\na minor"
+  },
+  {
+    "chunk_id": "minor_recommendations.txt_chunk_3",
+    "source": "minor_recommendations.txt",
+    "chunk_number": 3,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1fioy6g/people_with_computer_science_majors_what_minors/",
+    "title": "People with Computer Science majors, what minors have you chosen or you recommend?",
+    "text": "and 477 instead of discrete 1 and 2, and two of your cs electives would need to be math)\n\na minor isn’t necessarily for a credit intensive major like CS\nStill if you do want to minor, do something which interest you.\nBusiness? Do business admin or entrepreneurship Math Economics Data Sci minor is mostly useless rn, so stats might be better ITI/Bait idk y but ppl do those minors w CS but still an option ig\n\nDo what you are interested in, I'm majoring in Music along with CS, not bc the classes work"
+  },
+  {
+    "chunk_id": "minor_recommendations.txt_chunk_4",
+    "source": "minor_recommendations.txt",
+    "chunk_number": 4,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1fioy6g/people_with_computer_science_majors_what_minors/",
+    "title": "People with Computer Science majors, what minors have you chosen or you recommend?",
+    "text": "ig\n\nDo what you are interested in, I'm majoring in Music along with CS, not bc the classes work well together (they don't, the music courses fulfill no sas core either :/) but because it's something I'm interested in.\n\nI'm majoring in math and linguistics in addition to CS\nMath overlaps a fuckton and is generally useful for CS majors; linguistics is more a passion major than anything else for me, but it's not credit-intensive and there are some areas where it overlaps (formal language, natural language"
+  },
+  {
+    "chunk_id": "minor_recommendations.txt_chunk_5",
+    "source": "minor_recommendations.txt",
+    "chunk_number": 5,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/1fioy6g/people_with_computer_science_majors_what_minors/",
+    "title": "People with Computer Science majors, what minors have you chosen or you recommend?",
+    "text": "not credit-intensive and there are some areas where it overlaps (formal language, natural language processing, etc.)"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_0",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 0,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "Guide to CS Majors\n\nHi. I’ve written this “guide” to pass the time and get my mind off my own things. Haha. I would have written this to myself if I was an incoming freshman at Rutgers.\n\nFirst and foremost, I am a C.S. major (obviously). I’m currently a junior, so I cannot speak for the senior year, but I have a good idea of my plans and feel comfortable with how things have progressed so far. Now, onto the guide!\n\nWhy Computer Science?\n\nMany, many career opportunities\n\nVery versatile degree; not"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_1",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 1,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "onto the guide!\n\nWhy Computer Science?\n\nMany, many career opportunities\n\nVery versatile degree; not all Computer Science jobs require coding\n\n“Tinker” mindset. Your mind (and current technology) are the limit as to what you can do or create.\n\nWhat are the drawbacks of Computer Science?\n\nHighly competitive field\n\nCourses can be challenging depending on which you pick and who is your professor\n\nMath heavy and lots of concepts\n\nShould you pick Computer Science?\n\nI recommend asking yourself why you want"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_2",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 2,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "and lots of concepts\n\nShould you pick Computer Science?\n\nI recommend asking yourself why you want to do C.S. Motivation is an influential factor in choosing a major. \nC.S. can be difficult sometimes, and your motivation will keep you going. There are ways to get additional help, but your motivation is critical. These are some questions you should ask yourself.\n\nAre you interested in the major?\n\nAre you doing it because others have told you to do so?\n\nDo you see yourself doing something related to"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_3",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 3,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "you doing it because others have told you to do so?\n\nDo you see yourself doing something related to computer science in the future?\n\nNow that you’ve chosen to do C.S. Should you do a B.A. or B.S.?\n\nI have personally chosen B.A. and haven’t had any issues with that. It is also commonly accepted that both are good. Most companies do not care. The only argument I see in B.S. is that you want a B.S.! Just kidding. B.S. requires more technical coursework, so it might be beneficial if you plan on going"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_4",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 4,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "kidding. B.S. requires more technical coursework, so it might be beneficial if you plan on going into a more specialized field. \nYou can do the same with a B.A., so it is primarily personal preference. Neither requires a minor, but with a B.A., you will have more opportunities to take courses outside the Computer Science department as the B.A. requires fewer credits than B.S. Just my two cents.\n\nCreating a Schedule\n\nFalling behind at Rugters is very easy to do. Having a “game plan” is essential so"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_5",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 5,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "a Schedule\n\nFalling behind at Rugters is very easy to do. Having a “game plan” is essential so that you do not miss necessary courses/requirements that will prevent you from graduating. I highly recommend looking at the Sample Schedules for either B.A. or B.S. I followed these to make my schedule and have been super happy. \nBy following one of the sample schedules, you will meet all of your C.S. electives/requirements (The B.A. sample schedule does not mention this, but you must take at least two"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_6",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 6,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "(The B.A. sample schedule does not mention this, but you must take at least two CS 300 or higher electives. For B.S., this does not matter). Here are the complete requirements for B.A. and B.S.\nMake sure that you also meet your SAS Core Electives that all schools of Arts and Sciences must meet. You can see the SAS Core Curriculum here. You can also use Degree Navigator to keep track of your SAS core requirements and C.S. major (once you have declared it).\n\nSample B.A. Schedule (rutgers.edu)\n\nSample"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_7",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 7,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "and C.S. major (once you have declared it).\n\nSample B.A. Schedule (rutgers.edu)\n\nSample B.S. Schedule (rutgers.edu)\n\nPicking Classes\n\nThere are a lot of C.S. electives to choose from. You can pick and choose which electives you want to do. Do your research by looking at this subreddit and Google. Some courses also have their Syllabus listed publicly (before the class starts) if you search it on Google (Example Syllabus). \nUltimately, I have not put too much into this section because the electives"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_8",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 8,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "(Example Syllabus). \nUltimately, I have not put too much into this section because the electives are mostly personal preferences. Some courses are more complex than others but generally similar by course level.\nHowever, I strongly recommend utilizing RateMyProfessor as some professors teach better than others and can make the same course significantly more straightforward to complete.\n\nCareer Development\n\nWhen I came to Rutgers, my goal was and still is to set myself up for success in the future."
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_9",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 9,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "When I came to Rutgers, my goal was and still is to set myself up for success in the future. Everyone will talk about internships or research and the importance of it. \nThe real question is, how do I obtain those opportunities? The answer I’ve found so far is developing yourself to “sell” yourself to companies. Taking the initiative is always looked highly upon. \nAt Rutgers, there are a lot of opportunities and resources for this. You can join a club, teach a course, work part-time, or tutor other"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_10",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 10,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "and resources for this. You can join a club, teach a course, work part-time, or tutor other students. \nThe list goes on and on and doesn’t necessarily need to be related to C.S. Undergraduate C.S. Student Organizations are a great way to gain experience in various C.S. fields and put on your Resume. \nHandshake is another excellent resource for finding on-campus jobs as well as internships. GetInvolved is another great resource for finding organizations, events, or opportunities you may be interested"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_11",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 11,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "is another great resource for finding organizations, events, or opportunities you may be interested in. \nCompanies love to see when you are demonstrating a holistic persona. They want to know that you have related experience and are active in your interests. \nAnother “easy” way to get related experience is to work on side projects. It does not have to be too complicated, either. \nFor instance, you can look up a walkthrough on YouTube for creating a chat application; once you’ve completed a project,"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_12",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 12,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "look up a walkthrough on YouTube for creating a chat application; once you’ve completed a project, you can add your work to GitHub and your Resume. \nFor people who want to start their coding interview practice, I recommend looking at NeetCode to prepare for them.\n\nIn addition, Rutgers offers a lot of career resources. I highly recommend looking into these. Once you’ve worked on gaining experience, it’s equally important to present that experience effectively on a resume. \nI highly recommend taking"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_13",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 13,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "equally important to present that experience effectively on a resume. \nI highly recommend taking Career Explorations in the Arts and Sciences (For Sophomores and above). It is a graded 1.5 credit course that teaches you how to write your LinkedIn Profile and Resume. \nIt is a very easy course, and once you’ve completed it, you’ll have a LinkedIn profile, Resume, GPA booster, and more experience. Win-win all around.\n\nI hope you guys have enjoyed the read! Feel free to comment for feedback or additional"
+  },
+  {
+    "chunk_id": "newcomer_guide.txt_chunk_14",
+    "source": "newcomer_guide.txt",
+    "chunk_number": 14,
+    "source_type": "Reddit",
+    "url": "https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/",
+    "title": "For newcomers interested in C.S.",
+    "text": "all around.\n\nI hope you guys have enjoyed the read! Feel free to comment for feedback or additional questions :)"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_0",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 0,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "Background\n\nIf you ask 100 different Computer Science graduates how to succeed in the CS department, you’re likely to get 100 different answers. But I’m sitting here in my apartment thinking about what I would have told myself when I started at Rutgers. This guide will reflect those thoughts.\n\nI spent 4 years in the CS program and took a whole lot of undergraduate and graduate courses. I was a Learning Assistant for CS111 for one year, a Teaching Assistant for CS112 next year, and a Part-Time Lecturer"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_1",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 1,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "for CS111 for one year, a Teaching Assistant for CS112 next year, and a Part-Time Lecturer for CS344 next year. I also taught a First-Year Interest Group Seminar my final year. I was President of Rutgers USACS for 2 years, a HackRU director for 2 years, and a mentor for the hackNY summer fellowship for 2 years.\n\nDisclaimer\n\nMost of this doesn’t apply until halfway through your freshman year - initially, just focus on finding your rhythm and getting somewhat comfortable with college life. There's"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_2",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 2,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "just focus on finding your rhythm and getting somewhat comfortable with college life. There's a lot to being successful and it can get overwhelming, but remember that you have years to consider all these points, and they’ll be pretty busy and transformational years of your life.\n\nI mention often the way I did things; by no means is this the only road to success. Everyone has their own timeline, do what’s best for you, hopefully this makes you think. I’m writing this more for underclassmen, but the"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_3",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 3,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "best for you, hopefully this makes you think. I’m writing this more for underclassmen, but the points are still valid for upperclassmen. If you’re older and don’t care, just skip to the jobs section or message me on Facebook for referrals.\n\nAppendix\nOther awesome and successful people will share their own experiences and lessons below.\n\nTanya Balaraju\nRealize that there’s no one way to succeed.\nThis doc is already huge, so it can be overwhelming. But all of it is advice made in an attempt to help"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_4",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 4,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "doc is already huge, so it can be overwhelming. But all of it is advice made in an attempt to help you be your best.\nThis is a roadmap that worked for one person. Everyone’s path is different. Make the most of your own.\nFigure out what fulfills you. For me, it was organizing and improving the CS community at Rutgers. I sometimes felt like an impostor because my biggest extracurricular involvement was about a community within tech, instead of tech itself. But that was what made me feel like I had"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_5",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 5,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "about a community within tech, instead of tech itself. But that was what made me feel like I had an impact. Remember that humans are multidimensional--you can be successful and interesting even if your whole life isn’t about writing code.\nDon’t let fear be the reason behind your choices.\nI avoided applying to jobs and internships for a very long time because I thought I would be exposed as a total failure. Turns out this thought process was a waste of my own time that never did anything useful for"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_6",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 6,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "Turns out this thought process was a waste of my own time that never did anything useful for me, but the only thing I could see at the time was my fear of failure. It’s okay to be afraid--everyone is. Just don’t let that stop you, because it’s not worth it.\nWork on replacing your fear of the unknown with curiosity about it. Even if you don’t know how your job search will work out, you’ll be better off if you have experience with interviews and job applications. If you’re afraid that a certain class"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_7",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 7,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "if you have experience with interviews and job applications. If you’re afraid that a certain class will be too hard, remember that others have taken it before you, and there’s no inherent reason you can’t do it too.\nEmbrace uncertainty. Stand up for your notions, but get comfortable with being wrong and admitting it, because the best solution can only be found if you’re willing to find it. This is not only important in CS interviews, jobs, and classes, but also in general.\nSurround yourself with"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_8",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 8,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "not only important in CS interviews, jobs, and classes, but also in general.\nSurround yourself with people who encourage you and push you to do more and be better, even if you’re afraid. You won’t grow if you live in your bubble of fear.\nTry to gain an understanding of how people work.\nPeople who loudly brag about their careers/interviews/skills/classes (or look down on those of others) are doing it out of their own insecurities. Don’t let that become an insecurity of yours.\nJust because someone"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_9",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 9,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "out of their own insecurities. Don’t let that become an insecurity of yours.\nJust because someone is loud and outspoken does not mean they are right.\nTech has a long way to go when it comes to being inclusive. Educate yourself on this, and do not shy away from the different experiences it creates for different people. Understand how it influences your own experience. Listen to others’ experiences so that you can understand, not just so that you can figure out the best way to disagree.\nAim to grow."
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_10",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 10,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "that you can understand, not just so that you can figure out the best way to disagree.\nAim to grow. You can’t be your high school self forever.\nCheck in on your own thoughts and behaviors often. Don’t be a jerk. No one likes a jerk.\n\nJamie Liao\nDo what you enjoy.\nYou’re in charge of your own life. Keep an open mind and do anything that piques your interest or curiosity, but don’t feel obligated to owe anyone by fitting into their needs or vision of yourself.\nOne story in particular: I personally"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_11",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 11,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "owe anyone by fitting into their needs or vision of yourself.\nOne story in particular: I personally struggled with this a ton while I was applying for full time roles. Because as a CS grad, it felt like there was an engineering-esque mold I was expected to fill. Whilst I was applying to full-time software engineering roles, I realized I was only doing it because “it’s the right thing to do” because I never programmed outside of projects and assignments. In the end, I tested my luck at a community"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_12",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 12,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "I never programmed outside of projects and assignments. In the end, I tested my luck at a community oriented role at Major League Hacking and I learned I really, really love seeing people grow (and I don’t count down the minutes until I get to leave the office!).\nYou are worth someone else’s time and energy.\nYour mental health directly impacts your school and social life. The best thing you can do for yourself is know you aren’t alone and that you have a support system around you to help you.\nOver"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_13",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 13,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "yourself is know you aren’t alone and that you have a support system around you to help you.\nOver time and experience, I learned that after speaking to someone about my thoughts and emotions, I immediately bounce back from the dark, unwanted pits of my brain. But, my need to find that “someone” was blocked by my insecurities of not feeling good enough to deserve one. During sophomore year, I came across my “someone” who showed me that they cared about my life and it did wonders for my mental health,"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_14",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 14,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "my “someone” who showed me that they cared about my life and it did wonders for my mental health, self-confidence, and, ultimately, academics.\nReflect and recognize your personal growth every semester.\nAs you go through the motions of school, you’re constantly fighting an upward battle as classes get harder and more responsibilities are piled on. The constant need to get better, compare yourself to others, and learn more can take a toll on your confidence as a person, but remember where you started"
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_15",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 15,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "and learn more can take a toll on your confidence as a person, but remember where you started from!\nDuring my sophomore year, I was constantly comparing myself to my friends who were in higher level classes or more leadership positions. As a result, I would question my own abilities because I wasn’t where they were, even though they were the same age or younger than me. However, I also remembered that I was the high schooler who played games all day long and did the absolute minimum to pass classes."
+  },
+  {
+    "chunk_id": "student_success_experiences.txt_chunk_16",
+    "source": "student_success_experiences.txt",
+    "chunk_number": 16,
+    "source_type": "Github",
+    "url": "https://github.com/sakib/succeeding_in_rutgers_cs",
+    "title": "Succeeding in Rutgers CS",
+    "text": "I was the high schooler who played games all day long and did the absolute minimum to pass classes. In just 1 year, I realized I grew so much that I barely believed all I accomplished and it pushed me to continue growing.\n\nBen Yang\nMy dad told me to not go home until it’s 10 PM everyday.\nHelpful guideline to check if you’re not being productive."
+  }
+]
