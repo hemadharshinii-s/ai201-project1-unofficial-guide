@@ -191,9 +191,7 @@ Finally, I would evaluate whether a locally hosted solution or an API-hosted sol
   **QUERY 1: 'What are some easier CS electives recommended by students?'**
 ══════════════════════════════════════════════════════════════════════
 
-  Result 1  |  similarity: 0.7013  |  distance: 0.2987
-
-───────────────────────────
+  **Result 1  |  similarity: 0.7013  |  distance: 0.2987**
 
   **Source  : easy_cs_electives.txt**
 
@@ -207,9 +205,9 @@ Finally, I would evaluate whether a locally hosted solution or an API-hosted sol
 
   Title is self-explanatory, but which electives that count towards the BS Computer Science degree are the easiest/require the least effort?  COMMENTS:  If Python and ML are what interest you, take CS 210 and CS 439.  Both those classes are relatively straightforward.  336 is straightforward as well.  Other than that, however, most CS electives are meant to be time consuming and project heavy (class...
 
-  Result 2  |  similarity: 0.6513  |  distance: 0.3487
-
 ───────────────────────────
+
+  **Result 2  |  similarity: 0.6513  |  distance: 0.3487**
 
   **Source  : courses_by_difficulty.txt**
 
@@ -223,9 +221,9 @@ Finally, I would evaluate whether a locally hosted solution or an API-hosted sol
 
   Guys I have seen posts ranking CS electives by toughness. But I have never seen anyone rank the difficulty of the required classes.  CS : 01:198:111, 112, 205, 206, 211, 344.  Math : 01:640:151(Calc 1), 152(Calc 2), 250(Linear Algebra.  I would really appreciate if you could rate the classes by difficulty on a scale of 1-10 and if you could specify what classes to not take together in the same sem...
 
-  Result 3  |  similarity: 0.6441  |  distance: 0.3559
-
 ───────────────────────────
+
+  **Result 3  |  similarity: 0.6441  |  distance: 0.3559**
 
   **Source  : advice_from_senior.txt**
 
@@ -239,9 +237,9 @@ Finally, I would evaluate whether a locally hosted solution or an API-hosted sol
 
   some grad classes, so you can take it a little slower and be fine.  APs: CS 111, Math 151+152  Freshman Fall: No CS classes  Freshman Spring: 112, 205  Sophomore Fall: 206, 211  Sophomore Spring: 213, 344, 352  Junior Fall: 314, 442  Junior Spring: 440, 443, 513  Senior Fall: 431, 444, 514  Senior Spring: none (a math elective but I haven't been listing those)  ------  Course-Teacher combination r...
 
-  Result 4  |  similarity: 0.6104  |  distance: 0.3896
-
 ───────────────────────────
+
+  **Result 4  |  similarity: 0.6104  |  distance: 0.3896**
 
   **Source  : cs_success.txt**
 
@@ -255,10 +253,10 @@ Finally, I would evaluate whether a locally hosted solution or an API-hosted sol
 
   You can ask any upperclassman what they think the most important CS course is, and Data Structures will almost certainly be one of their top 3.  The Story of 50% of the students in CS112 Now, let me tell you the story of Alice. Alice is a metaphorical student that represents 50% of the CS112 roster.  Alice took CS111, did fairly well in it (got better than a B). In 111, Alice often found it hard t...
 
-  Result 5  |  similarity: 0.5982  |  distance: 0.4018
-
 ───────────────────────────
-  
+
+  **Result 5  |  similarity: 0.5982  |  distance: 0.4018**
+
   **Source  : easy_cs_electives.txt**
   
   Title   : What are the easiest electives for the BS Computer Science degree?
@@ -283,9 +281,7 @@ Together, they collectively cover both explicit recommendations and broader diff
   **QUERY 2: 'What courses do students frequently describe as among the most difficult Rutgers CS courses?'**
 ══════════════════════════════════════════════════════════════════════
 
-  Result 1  |  similarity: 0.6764  |  distance: 0.3236
-
-───────────────────────────
+  **Result 1  |  similarity: 0.6764  |  distance: 0.3236**
 
   **Source  : newcomer_guide.txt**
 
@@ -299,9 +295,9 @@ Together, they collectively cover both explicit recommendations and broader diff
 
   (Example Syllabus).  Ultimately, I have not put too much into this section because the electives are mostly personal preferences. Some courses are more complex than others but generally similar by course level. However, I strongly recommend utilizing RateMyProfessor as some professors teach better than others and can make the same course significantly more straightforward to complete.  Career Deve...
 
-  Result 2  |  similarity: 0.6508  |  distance: 0.3492
-
 ───────────────────────────
+
+  **Result 2  |  similarity: 0.6508  |  distance: 0.3492**
 
   **Source  : easy_cs_electives.txt**
 
@@ -315,9 +311,9 @@ Together, they collectively cover both explicit recommendations and broader diff
 
   to check off math requirements as well, since it is extremely tedious, although not conceptually hard.  I mean most math courses are tedious, especially since the upper level math takes like 30 minutes for 1 problem. But yeah definitely something to avoid if you're not strong in math or looking for a math degree. Still definitely an easier course than a lot of other CS electives  Is Rutgers CS mor...
 
-  Result 3  |  similarity: 0.6458  |  distance: 0.3542
-
 ───────────────────────────
+
+  **Result 3  |  similarity: 0.6458  |  distance: 0.3542**
 
   **Source  : courses_by_difficulty.txt**
 
@@ -331,9 +327,9 @@ Together, they collectively cover both explicit recommendations and broader diff
 
   Guys I have seen posts ranking CS electives by toughness. But I have never seen anyone rank the difficulty of the required classes.  CS : 01:198:111, 112, 205, 206, 211, 344.  Math : 01:640:151(Calc 1), 152(Calc 2), 250(Linear Algebra.  I would really appreciate if you could rate the classes by difficulty on a scale of 1-10 and if you could specify what classes to not take together in the same sem...
 
-  Result 4  |  similarity: 0.6197  |  distance: 0.3803
-
 ───────────────────────────
+
+  **Result 4  |  similarity: 0.6197  |  distance: 0.3803**
 
   **Source  : newcomer_guide.txt**
 
@@ -347,9 +343,9 @@ Together, they collectively cover both explicit recommendations and broader diff
 
   and C.S. major (once you have declared it).  Sample B.A. Schedule (rutgers.edu)  Sample B.S. Schedule (rutgers.edu)  Picking Classes  There are a lot of C.S. electives to choose from. You can pick and choose which electives you want to do. Do your research by looking at this subreddit and Google. Some courses also have their Syllabus listed publicly (before the class starts) if you search it on Go...
 
-  Result 5  |  similarity: 0.6125  |  distance: 0.3875
-
 ───────────────────────────
+
+  **Result 5  |  similarity: 0.6125  |  distance: 0.3875**
 
   **Source  : cs_success.txt**
 
@@ -363,16 +359,11 @@ Together, they collectively cover both explicit recommendations and broader diff
 
   You can ask any upperclassman what they think the most important CS course is, and Data Structures will almost certainly be one of their top 3.  The Story of 50% of the students in CS112 Now, let me tell you the story of Alice. Alice is a metaphorical student that represents 50% of the CS112 roster.  Alice took CS111, did fairly well in it (got better than a B). In 111, Alice often found it hard t...
 
-───────────────────────────
-
-
 ══════════════════════════════════════════════════════════════════════
   **QUERY 3: 'How do students recommend finding research opportunities within Rutgers Computer Science?'**
 ══════════════════════════════════════════════════════════════════════
 
-  Result 1  |  similarity: 0.7172  |  distance: 0.2828
-
-───────────────────────────
+  **Result 1  |  similarity: 0.7172  |  distance: 0.2828**
 
   **Source  : cs_research_opportunities.txt**
 
@@ -386,9 +377,9 @@ Together, they collectively cover both explicit recommendations and broader diff
 
   I met all the prerequisites for).  Also, I couldn't apply for the summer research program this year due to my summer classes.  So, I'm wondering if any of you have any suggestions for finding research opportunities. Thanks!  COMMENTS:  Sometimes the Rutgers CS department emails out notifications about new jobs. These include student programmers and CS research assistant positions.  If you do not g...
 
-  Result 2  |  similarity: 0.6070  |  distance: 0.3930
-
 ───────────────────────────
+
+  **Result 2  |  similarity: 0.6070  |  distance: 0.3930**
 
   **Source  : cs_success.txt**
 
@@ -402,9 +393,9 @@ Together, they collectively cover both explicit recommendations and broader diff
 
   you find jobs and offer you their couches.  Rutgers is a great place to study Computer Science, and I hope your time there will be as memorable as mine was.
 
-  Result 3  |  similarity: 0.6059  |  distance: 0.3941
-
 ───────────────────────────
+
+  **Result 3  |  similarity: 0.6059  |  distance: 0.3941**
 
   **Source  : cs_success.txt**
 
@@ -418,9 +409,9 @@ Together, they collectively cover both explicit recommendations and broader diff
 
   Join the USACS board, and help plan events. Hang out at the CAVE and help underclassmen understand difficult concepts. Help the noobs out at hackathons.  Make friends out of your peers. Impossible looking homework assignments will become easier. You’ll spend a silly amount of timeworking on a CTF challenge, or writing a game. You’ll get one letter Github usernames together. After college, they’ll ...
 
-  Result 4  |  similarity: 0.5740  |  distance: 0.4260
-
 ───────────────────────────
+
+  **Result 4  |  similarity: 0.5740  |  distance: 0.4260**
 
   **Source  : newcomer_guide.txt**
 
@@ -434,9 +425,9 @@ Together, they collectively cover both explicit recommendations and broader diff
 
   When I came to Rutgers, my goal was and still is to set myself up for success in the future. Everyone will talk about internships or research and the importance of it.  The real question is, how do I obtain those opportunities? The answer I’ve found so far is developing yourself to “sell” yourself to companies. Taking the initiative is always looked highly upon.  At Rutgers, there are a lot of opp...
 
-  Result 5  |  similarity: 0.5517  |  distance: 0.4483
-
 ───────────────────────────
+
+  **Result 5  |  similarity: 0.5517  |  distance: 0.4483**
   
   **Source  : cs_research_opportunities.txt**
   
@@ -505,7 +496,9 @@ Note that the difficulty of a course can also depend on personal preferences and
 Retrieved From: 
 
 • newcomer_guide.txt (https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/)
+
 • easy_cs_electives.txt (https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/)
+
 • courses_by_difficulty.txt (https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/)
 
 **Q: How do students succeed in Rutgers CS?**
@@ -515,7 +508,9 @@ A: To succeed in Rutgers CS, students should develop a good mental model of prog
 Retrieved From: 
 
 • student_success_experiences.txt (https://github.com/sakib/succeeding_in_rutgers_cs)
+
 • cs_success.txt (https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb)
+
 • cs_quality.txt (https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/)
 
 **Q: What is the salary of a Rutgers CS graduate in 2026?**
@@ -525,7 +520,9 @@ A: I don't have enough information in the provided documents.
 Retrieved From: 
 
 • cs_quality.txt (https://www.reddit.com/r/rutgers/comments/1bod56d/the_quality_of_computer_science_at_rutgers/)
+
 • student_success_experiences.txt (https://github.com/sakib/succeeding_in_rutgers_cs)
+
 • cs_success.txt (https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb)
 
 ---
