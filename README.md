@@ -1,9 +1,6 @@
 # The Unofficial Guide — Project 1
 
-> **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
+> Hemadharshinii Sendhilvel | A201 Project 1
 
 ---
 
@@ -624,8 +621,11 @@ According to students, some easier CS electives are CS 210, CS 439, and CS 336 [
 Retrieved From: 
 
 • easy_cs_electives.txt (https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/)
+
 • courses_by_difficulty.txt (https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/)
+
 • advice_from_senior.txt (https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/)
+
 • cs_success.txt (https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb)
 
 
