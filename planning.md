@@ -185,7 +185,7 @@ The AI tools will help generate code based on the specifications I define in thi
 
 **Milestone 4 — Embedding and retrieval:**
 
-- Embedding and Vector Store: I will provide the AI tools with the retrieval approach section of this plan and ask them to generate code that uses the all-MiniLM-L6-v2 embedding model and stores embeddings in ChromeDB. 
+- Embedding and Vector Store: I will provide the AI tools with the retrieval approach section of this plan and ask them to generate code that uses the all-MiniLM-L6-v2 embedding model and stores embeddings in ChromaDB. 
    - Expected Output: Embedding generation code, ChromaDB initialization, code for storing chunks and metadata, retrieval functions
 
 **Milestone 5 — Generation and interface:**

@@ -78,27 +78,34 @@ def format_context(results: dict) -> tuple[str, list[str]]:
         context_str: multi-chunk block ready to drop into the user message
         sources:     deduplicated list of source filenames, in order of appearance
     """
-    documents = results["documents"][0]   # list of chunk texts
-    metadatas = results["metadatas"][0]   # list of metadata dicts
+    documents = results["documents"][0]
+    metadatas = results["metadatas"][0]
 
     context_parts = []
-    seen_sources  = []
+    seen_sources = set()
+    source_display = []   # NEW: for UI
 
     for text, meta in zip(documents, metadatas):
         source = meta.get("source", "unknown")
-        title  = meta.get("title",  "")
-        url    = meta.get("url",    "")
+        title  = meta.get("title", "")
+        url    = meta.get("url", "")
 
-        # Build the per-chunk header
         header = f"[Source: {source} | Title: {title} | URL: {url}]"
         context_parts.append(f"{header}\n\n{text.strip()}")
 
-        # Deduplicate sources, preserving first-seen order
+        # for LLM grounding
+        # NEW: for UI display (filename + url)
         if source not in seen_sources:
-            seen_sources.append(source)
+            seen_sources.add(source)
+
+            if url:
+                source_display.append(f"{source} ({url})")
+            else:
+                source_display.append(source)
 
     context_str = "\n\n---\n\n".join(context_parts)
-    return context_str, seen_sources
+
+    return context_str, seen_sources, source_display
 
 # ── Core ask() function ────────────────────────────────────────────────────────
 
@@ -120,7 +127,7 @@ def ask(question: str) -> dict:
     results = retrieve(question, k=TOP_K, print_results=False)
 
     # ── Step 2: Format context with source headers ─────────────────────────────
-    context_str, sources = format_context(results)
+    context_str, sources, source_display = format_context(results)
 
     # ── Step 3: Build the user message ─────────────────────────────────────────
     # Explicit labeling of "Question:" and "Context:" makes the boundary clear
@@ -144,7 +151,7 @@ def ask(question: str) -> dict:
 
     return {
         "answer":  answer,
-        "sources": sources,
+        "sources": source_display,
     }
 
 # ── Gradio handler ─────────────────────────────────────────────────────────────
@@ -195,7 +202,7 @@ with gr.Blocks(title="Rutgers CS Unofficial Guide") as demo:
 
     with gr.Row():
         sources_box = gr.Textbox(
-            label="Retrieved from",
+            label="Retrieved From",
             lines=4,
             interactive=False,
         )
