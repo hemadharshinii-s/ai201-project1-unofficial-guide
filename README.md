@@ -530,7 +530,7 @@ Retrieved From:
      Be honest — a partially accurate or inaccurate result that you explain well is more
      valuable than a suspiciously perfect result. -->
 
-| # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
+| # | Question | Expected Answer | System Response (summarized) | Retrieval Quality | Response Accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
 | 1 | What courses do students frequently describe as among the most difficult Rutgers CS courses? | Students commonly identify CS112 and CS344 as particularly difficult courses. | The system correctly identified CS112 as one of the most difficult courses based on student discussion, and referenced Data Structures as a key challenging course. However, it did not explicitly isolate a full ranked list of difficult courses like CS344. | Relevant | Partially Accurate |
 | 2 | What advice do students repeatedly give for succeeding in Rutgers Computer Science? | Students commonly recommend starting projects early, attending lectures consistently, and practicing programming outside of class. | The system emphasized early development of programming fundamentals, joining CS organizations (like USACS), collaborating with peers, and seeking help. It also highlight networking and proactive engagement as success strategies. | Relevant | Accurate |
@@ -566,17 +566,23 @@ Rather than synthesizing the most commonly recommended professors, it largely re
 **Root cause (tied to a specific pipeline stage):**
 
 This issue originated primarily in the retrieval and generation stages.
-The query "best professors" is broad and subjective, causing retrieval to return chunks containing many different opinions.
-Because the source documents were discussion threads with multiple commenters, the retrieved chunks contained long lists of professor names without a clear ranking or consensus. 
+The embedding model retrieves chunks based on semantic similarity rather than consensus or sentiment.
+Because the query "best professors" is broad and subjective, the retriever returned chunks containing many different professor recommendations from different commenters. 
 
-The generation model was grounded correctly, but it lacked a mechanism for determining which professors were mentioned most frequently or most positively. 
-As a result, it summarized nearly every retrieved name instead of identifying a smaller set of commonly recommended professors. 
+The source documents were discussion threads rather than structured rankings, so retrieved chunks often contained multiple professor names with varying positive and negative opinions. 
+The retrieval pipeline had no mechanism for identifying which recommendations appeared most frequently across documents or which opinions represented community consensus.
+
+The generation model was grounded correctly, but it only had access to the retrieved chunks and therefore summarized the available mentions rather than performing cross-document aggregation.
+As a result, the answer reproduced many professor names instead of identifying a smaller set of professors that were most consistently recommended by students. 
 
 **What you would change to fix it:**
 
-I would improve the retrieval pipelin by adding metadata filtering or reranking to prioritize chunks with stronger consensus. 
-I would also aggregate professor mentions across multiple retrieved chunks before generation so that the model can identify trends rather than simply repeating names. 
-Another improvement would be increasing chunk size slightly so that positive and negative opinions remain grouped together, providing more complete context for the model. 
+I would improve the retrieval pipeline by adding a reranking stage that prioritizes chunks containing stronger positive recommendations. 
+I would also implement cross-document aggregation to count professor mentions across retrieved chunks before generation.
+This would allow the system to identify professors that appear consistently across multiple sources rather than treating every mention equally. 
+
+Another possible improvement would be metadata-aware retrieval or sentiment analysis so that positive and negative opinions can be distinguised before generation.
+Finally, increasing chunk size slightly could help preserve surrounding context, ensuring that recommendations and supporting explanations remain together during retrieval. 
 
 ---
 
