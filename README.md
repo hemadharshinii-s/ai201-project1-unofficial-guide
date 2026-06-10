@@ -39,7 +39,7 @@ By using retrieval-augmented generation (RAG), the system can answer questions u
 | 7 | Reddit | Minor Recommendations: Recommendations for minors that complement a Computer Science major | https://www.reddit.com/r/rutgers/comments/1fioy6g/people_with_computer_science_majors_what_minors/ |
 | 8 | Reddit | Newcomer's Guide: Comprehensive introductory guide for students interested in Rutgers Computer Science | https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/ |
 | 9 | Medium | Success in Rutgers CS: Common patterns for success and failure in Rutgers Computer Science | https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb |
-| 10 | Github | Student Experiences of Succeeding in Rutgers CS: Long-form relections and advice from a Rutgers CS graduate (and others) about succeeding in the program | https://github.com/sakib/succeeding_in_rutgers_cs |
+| 10 | Github | Student Experiences of Succeeding in Rutgers CS: Long-form reflections and advice from a Rutgers CS graduate (and others) about succeeding in the program | https://github.com/sakib/succeeding_in_rutgers_cs |
 
 ---
 
@@ -477,7 +477,7 @@ In addition, the application programmatically displays a separate list of retrie
 This ensure that source attribution is always visible even if the model's response itself is brief. 
 
 The system retrieves the top 5 relevant chunks from ChromaDB before generation. 
-Because only retrieved content is provided to the model and the prompt explicitly forbids outside knowledge, answers remain grounded in the document collection rather than the model's general training data. 
+Because only the top-5 retrieved chunks are provided to the model and the prompt explicitly forbids outside knowledge, the model's context window is restricted to retrieved evidence, helping keep answers grounded in the document collection.
 
 ### System Responses (2 Example Outputs + 1 Refusal Output)
 
@@ -532,7 +532,7 @@ Retrieved From:
 
 | # | Question | Expected Answer | System Response (summarized) | Retrieval Quality | Response Accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | What courses do students frequently describe as among the most difficult Rutgers CS courses? | Students commonly identify CS112 and CS344 as particularly difficult courses. | The system correctly identified CS112 as one of the most difficult courses based on student discussion, and referenced Data Structures as a key challenging course. However, it did not explicitly isolate a full ranked list of difficult courses like CS344. | Relevant | Partially Accurate |
+| 1 | What courses do students frequently describe as among the most difficult Rutgers CS courses? | Students commonly identify CS112 and CS344 as particularly difficult courses. | The system correctly identified CS112 as one of the most difficult courses based on student discussion, and referenced Data Structures as a key challenging course. However, it did not explicitly isolate a full ranked list of difficult courses like CS344. And while the retriever returned some discussion of coure difficulty and CS112, it did not consistently retrieve the chunks most directly focused on ranking difficult courses, which contributed to the incomplete answer. | Relevant | Partially Accurate |
 | 2 | What advice do students repeatedly give for succeeding in Rutgers Computer Science? | Students commonly recommend starting projects early, attending lectures consistently, and practicing programming outside of class. | The system emphasized early development of programming fundamentals, joining CS organizations (like USACS), collaborating with peers, and seeking help. It also highlight networking and proactive engagement as success strategies. | Relevant | Accurate |
 | 3 | Which minors are commonly recommended alongside a Computer Science major? | Mathematics and statistics are frequently recommended complementary minors. | The system correctly identified Mathematics and Statistics as recommended minors, and also included related fields such as Data Science and other interdisciplinary minors. | Relevant | Accurate |
 | 4 | What are some easier CS electives recommended by students? | Students frequently mention CS210, CS336, and CS439 as relatively easier electives. | The system correctly listed CS210, CS336, and CS439 as easier electives. It also added other perceived "easy" courses such as CS314 and some non-CS electives. | Relevant | Accurate |
@@ -581,7 +581,7 @@ I would improve the retrieval pipeline by adding a reranking stage that prioriti
 I would also implement cross-document aggregation to count professor mentions across retrieved chunks before generation.
 This would allow the system to identify professors that appear consistently across multiple sources rather than treating every mention equally. 
 
-Another possible improvement would be metadata-aware retrieval or sentiment analysis so that positive and negative opinions can be distinguised before generation.
+Another possible improvement would be metadata-aware retrieval or sentiment analysis so that positive and negative opinions can be distinguished before generation.
 Finally, increasing chunk size slightly could help preserve surrounding context, ensuring that recommendations and supporting explanations remain together during retrieval. 
 
 ---

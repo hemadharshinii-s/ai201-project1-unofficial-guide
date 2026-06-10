@@ -32,7 +32,7 @@ This knowledge is valuable because much of it is scattered across forum posts, s
 | 7 | Reddit | Minor Recommendations: Recommendations for minors that complement a Computer Science major | https://www.reddit.com/r/rutgers/comments/1fioy6g/people_with_computer_science_majors_what_minors/ |
 | 8 | Reddit | Newcomer's Guide: Comprehensive introductory guide for students interested in Rutgers Computer Science | https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/ |
 | 9 | Medium | Success in Rutgers CS: Common patterns for success and failure in Rutgers Computer Science | https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb |
-| 10 | Github | Student Experiences of Succeeding in Rutgers CS: Long-form relections and advice from a Rutgers CS graduate (and others) about succeeding in the program | https://github.com/sakib/succeeding_in_rutgers_cs |
+| 10 | Github | Student Experiences of Succeeding in Rutgers CS: Long-form reflections and advice from a Rutgers CS graduate (and others) about succeeding in the program | https://github.com/sakib/succeeding_in_rutgers_cs |
 
 ---
 
