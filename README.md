@@ -70,36 +70,50 @@ A smaller chunk size would risk separating related ideas across multiple chunks,
 I used a 100-character overlap to reduce information loss at chunk boundaries.
 Many recommendations and explanations span multiple sentences, and overlap helps ensure that important context is preserved even when content falls near the edge of a chunk. 
 
-Before chunking, the ingestion pipeline performed preprocessing steps including HTML unescaping, whitespace normalization, removal of excessive line breaks, and cleaning of formatting artifacts from the source documents. Metadata such as source filename, title, URL, and chunk position were preserved for later attribution. 
+Before chunking, the ingestion pipeline performed preprocessing steps including HTML unescaping, whitespace normalization, removal of excessive line breaks, and cleaning of formatting artifacts from the source documents. 
+Metadata such as source filename, title, URL, and chunk position were preserved for later attribution. 
 
 **Final chunk count:** 145
 
-────────────────────────────────────────────────────────────
 ### Sample Chunks (5 Random Chunks)
-────────────────────────────────────────────────────────────
 
 [student_success_experiences.txt_chunk_9]
+
 Source : student_success_experiences.txt
+
 Title  : Succeeding in Rutgers CS
+
 Chunk# : 9
+
 Length : 502
+
 Text   : out of their own insecurities. Don’t let that become an insecurity of yours.
 Just because someone is loud and outspoken does not mean they are right.
 Tech has a long way to go when it comes to being inclusive. Educate yourself on this, and do not shy...
 
 [newcomer_guide.txt_chunk_12]
+
 Source : newcomer_guide.txt
+
 Title  : For newcomers interested in C.S.
+
 Chunk# : 12
+
 Length : 502
+
 Text   : look up a walkthrough on YouTube for creating a chat application; once you’ve completed a project, you can add your work to GitHub and your Resume.
 For people who want to start their coding interview practice, I recommend looking at NeetCode to prep...
 
 [best_worst_professors.txt_chunk_2]
+
 Source : best_worst_professors.txt
+
 Title  : Best CS Professors and worst CS Professors?
+
 Chunk# : 2
+
 Length : 294
+
 Text   : and Francisco are sus
 
 Santosh is smart and helpful enough, but def harder than the other profs imo.
@@ -111,19 +125,29 @@ He's simply the best
 ...
 
 [advice_from_senior.txt_chunk_2]
+
 Source : advice_from_senior.txt
+
 Title  : My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May
+
 Chunk# : 2
+
 Length : 501
+
 Text   : Electives will have a '>' in front of them.
 
 CS 112: A fairly implementation-based course. However, the data structures you learn here remain important throughout your CS career, so you should take the extra time to understand how exactly they work. ...
 
 [advice_from_senior.txt_chunk_23]
+
 Source : advice_from_senior.txt
+
 Title  : My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May
+
 Chunk# : 23
+
 Length : 503
+
 Text   : can figure out how to tackle a novel problem. Figure out which kind your professor is early on, and adapt your studying habits accordingly.
 
 Look out for Topics classes. Despite the high course numbers (442+ in my experience), these classes often hav...
@@ -153,9 +177,7 @@ However, larger models would increase response times and infrastructure requirem
 I would also consider whether users might ask questions in multiple languages and whether a model with stronger multilingual capabilities would be beneficial. 
 Finally, I would evaluate whether a locally hosted solution or an API-hosted solution offered the best balance between performance, reliability, and maintenance. 
 
-────────────────────────────────────────────────────────────
 ### Retrieval Tests (3 Queries with Top 5 Chunks)
-────────────────────────────────────────────────────────────
 
 ══════════════════════════════════════════════════════════════════════
   QUERY 1: 'What are some easier CS electives recommended by students?'
@@ -163,56 +185,81 @@ Finally, I would evaluate whether a locally hosted solution or an API-hosted sol
 ══════════════════════════════════════════════════════════════════════
 
   Result 1  |  similarity: 0.7013  |  distance: 0.2987
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : easy_cs_electives.txt
+
   Title   : What are the easiest electives for the BS Computer Science degree?
+
   Chunk # : 0
+
   URL     : https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/
+
   ID      : easy_cs_electives.txt_chunk_0
 
   Title is self-explanatory, but which electives that count towards the BS Computer Science degree are the easiest/require the least effort?  COMMENTS:  If Python and ML are what interest you, take CS 210 and CS 439.  Both those classes are relatively straightforward.  336 is straightforward as well.  Other than that, however, most CS electives are meant to be time consuming and project heavy (class...
 
   Result 2  |  similarity: 0.6513  |  distance: 0.3487
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : courses_by_difficulty.txt
+
   Title   : CS classes by difficulty
+  
   Chunk # : 0
+  
   URL     : https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/
+  
   ID      : courses_by_difficulty.txt_chunk_0
 
   Guys I have seen posts ranking CS electives by toughness. But I have never seen anyone rank the difficulty of the required classes.  CS : 01:198:111, 112, 205, 206, 211, 344.  Math : 01:640:151(Calc 1), 152(Calc 2), 250(Linear Algebra.  I would really appreciate if you could rate the classes by difficulty on a scale of 1-10 and if you could specify what classes to not take together in the same sem...
 
   Result 3  |  similarity: 0.6441  |  distance: 0.3559
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : advice_from_senior.txt
+
   Title   : My path through Rutgers CS, and advice for other undergrads, as a senior graduating in May
+  
   Chunk # : 1
+  
   URL     : https://www.reddit.com/r/rutgers/comments/kgnpiv/my_path_through_rutgers_cs_and_advice_for_other/
+  
   ID      : advice_from_senior.txt_chunk_1
 
   some grad classes, so you can take it a little slower and be fine.  APs: CS 111, Math 151+152  Freshman Fall: No CS classes  Freshman Spring: 112, 205  Sophomore Fall: 206, 211  Sophomore Spring: 213, 344, 352  Junior Fall: 314, 442  Junior Spring: 440, 443, 513  Senior Fall: 431, 444, 514  Senior Spring: none (a math elective but I haven't been listing those)  ------  Course-Teacher combination r...
 
   Result 4  |  similarity: 0.6104  |  distance: 0.3896
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : cs_success.txt
+
   Title   : Guest
+
   Chunk # : 8
+
   URL     : https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb
+
   ID      : cs_success.txt_chunk_8
 
   You can ask any upperclassman what they think the most important CS course is, and Data Structures will almost certainly be one of their top 3.  The Story of 50% of the students in CS112 Now, let me tell you the story of Alice. Alice is a metaphorical student that represents 50% of the CS112 roster.  Alice took CS111, did fairly well in it (got better than a B). In 111, Alice often found it hard t...
 
   Result 5  |  similarity: 0.5982  |  distance: 0.4018
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+  
   Source  : easy_cs_electives.txt
+  
   Title   : What are the easiest electives for the BS Computer Science degree?
+  
   Chunk # : 1
+  
   URL     : https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/
+  
   ID      : easy_cs_electives.txt_chunk_1
 
   461, 440, 213, 214).  However, even though those classes can be hard, they can prove useful for your career.  CS 336: Prin Info/ Data Mgmt Philosophy Minds, Machines Persons: Can only do 2 non-CS electives total to count towards BS. This is a pretty light, fun, and easy one. Math 354 Linear Optimization: Requires little knowledge of linear algebra if you forgot it. Pretty decently easy course, req...
 
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
 
 **Why These Chunks Are Relevant:**
 The retrieved chunks include direct discussions of CS electives and course difficulty from student forums. 
@@ -226,56 +273,81 @@ Together, they collectively cover both explicit recommendations and broader diff
 ══════════════════════════════════════════════════════════════════════
 
   Result 1  |  similarity: 0.6764  |  distance: 0.3236
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : newcomer_guide.txt
+
   Title   : For newcomers interested in C.S.
+
   Chunk # : 8
+
   URL     : https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/
+
   ID      : newcomer_guide.txt_chunk_8
 
   (Example Syllabus).  Ultimately, I have not put too much into this section because the electives are mostly personal preferences. Some courses are more complex than others but generally similar by course level. However, I strongly recommend utilizing RateMyProfessor as some professors teach better than others and can make the same course significantly more straightforward to complete.  Career Deve...
 
   Result 2  |  similarity: 0.6508  |  distance: 0.3492
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : easy_cs_electives.txt
+
   Title   : What are the easiest electives for the BS Computer Science degree?
+
   Chunk # : 6
+
   URL     : https://www.reddit.com/r/rutgers/comments/1991tq0/what_are_the_easiest_electives_for_the_bs/
+
   ID      : easy_cs_electives.txt_chunk_6
 
   to check off math requirements as well, since it is extremely tedious, although not conceptually hard.  I mean most math courses are tedious, especially since the upper level math takes like 30 minutes for 1 problem. But yeah definitely something to avoid if you're not strong in math or looking for a math degree. Still definitely an easier course than a lot of other CS electives  Is Rutgers CS mor...
 
   Result 3  |  similarity: 0.6458  |  distance: 0.3542
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : courses_by_difficulty.txt
+
   Title   : CS classes by difficulty
+
   Chunk # : 0
+
   URL     : https://www.reddit.com/r/rutgers/comments/kcpdse/cs_classes_by_difficulty/
+
   ID      : courses_by_difficulty.txt_chunk_0
 
   Guys I have seen posts ranking CS electives by toughness. But I have never seen anyone rank the difficulty of the required classes.  CS : 01:198:111, 112, 205, 206, 211, 344.  Math : 01:640:151(Calc 1), 152(Calc 2), 250(Linear Algebra.  I would really appreciate if you could rate the classes by difficulty on a scale of 1-10 and if you could specify what classes to not take together in the same sem...
 
   Result 4  |  similarity: 0.6197  |  distance: 0.3803
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : newcomer_guide.txt
+
   Title   : For newcomers interested in C.S.
+
   Chunk # : 7
+
   URL     : https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/
+
   ID      : newcomer_guide.txt_chunk_7
 
   and C.S. major (once you have declared it).  Sample B.A. Schedule (rutgers.edu)  Sample B.S. Schedule (rutgers.edu)  Picking Classes  There are a lot of C.S. electives to choose from. You can pick and choose which electives you want to do. Do your research by looking at this subreddit and Google. Some courses also have their Syllabus listed publicly (before the class starts) if you search it on Go...
 
   Result 5  |  similarity: 0.6125  |  distance: 0.3875
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : cs_success.txt
+
   Title   : Guest
+
   Chunk # : 8
+
   URL     : https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb
+
   ID      : cs_success.txt_chunk_8
 
   You can ask any upperclassman what they think the most important CS course is, and Data Structures will almost certainly be one of their top 3.  The Story of 50% of the students in CS112 Now, let me tell you the story of Alice. Alice is a metaphorical student that represents 50% of the CS112 roster.  Alice took CS111, did fairly well in it (got better than a B). In 111, Alice often found it hard t...
 
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
 
 
 ══════════════════════════════════════════════════════════════════════
@@ -284,56 +356,81 @@ Together, they collectively cover both explicit recommendations and broader diff
 ══════════════════════════════════════════════════════════════════════
 
   Result 1  |  similarity: 0.7172  |  distance: 0.2828
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : cs_research_opportunities.txt
+
   Title   : CS Research Opportunities
+
   Chunk # : 1
+
   URL     : https://www.reddit.com/r/rutgers/comments/152i9se/cs_research_opportunities/
+
   ID      : cs_research_opportunities.txt_chunk_1
 
   I met all the prerequisites for).  Also, I couldn't apply for the summer research program this year due to my summer classes.  So, I'm wondering if any of you have any suggestions for finding research opportunities. Thanks!  COMMENTS:  Sometimes the Rutgers CS department emails out notifications about new jobs. These include student programmers and CS research assistant positions.  If you do not g...
 
   Result 2  |  similarity: 0.6070  |  distance: 0.3930
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : cs_success.txt
+
   Title   : Guest
+
   Chunk # : 30
+
   URL     : https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb
+
   ID      : cs_success.txt_chunk_30
 
   you find jobs and offer you their couches.  Rutgers is a great place to study Computer Science, and I hope your time there will be as memorable as mine was.
 
   Result 3  |  similarity: 0.6059  |  distance: 0.3941
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : cs_success.txt
+
   Title   : Guest
+
   Chunk # : 29
+
   URL     : https://medium.com/@rutgersusacs/guest-post-succeeding-in-rutgers-computer-science-by-v-48e6a5b75efb
+
   ID      : cs_success.txt_chunk_29
 
   Join the USACS board, and help plan events. Hang out at the CAVE and help underclassmen understand difficult concepts. Help the noobs out at hackathons.  Make friends out of your peers. Impossible looking homework assignments will become easier. You’ll spend a silly amount of timeworking on a CTF challenge, or writing a game. You’ll get one letter Github usernames together. After college, they’ll ...
 
   Result 4  |  similarity: 0.5740  |  distance: 0.4260
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+
   Source  : newcomer_guide.txt
+
   Title   : For newcomers interested in C.S.
+
   Chunk # : 9
+
   URL     : https://www.reddit.com/r/rutgers/comments/190uh5j/for_newcomers_interested_in_cs/
+
   ID      : newcomer_guide.txt_chunk_9
 
   When I came to Rutgers, my goal was and still is to set myself up for success in the future. Everyone will talk about internships or research and the importance of it.  The real question is, how do I obtain those opportunities? The answer I’ve found so far is developing yourself to “sell” yourself to companies. Taking the initiative is always looked highly upon.  At Rutgers, there are a lot of opp...
 
   Result 5  |  similarity: 0.5517  |  distance: 0.4483
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
+  
   Source  : cs_research_opportunities.txt
+  
   Title   : CS Research Opportunities
+  
   Chunk # : 4
+  
   URL     : https://www.reddit.com/r/rutgers/comments/152i9se/cs_research_opportunities/
+  
   ID      : cs_research_opportunities.txt_chunk_4
 
   Cold email professors who have research projects. It doesn't have to be CS professors cuz most labs will benefit from some coding and stuff so if you happen to be interested in biology or chemistry go do some research there also because there is a lot of data analytics and stuff they use. Also, you gotta be alright with doing free labor in research. You'll have better odds doing research with a pr...
 
-──────────────────────────────────────────────────────────────────────
+───────────────────────────
 
 **Why These Chunks Are Relevant:**
 The top retrieved chunks come from posts discussing research opportunities, student experiences, and departmental advice. 
@@ -374,9 +471,7 @@ This ensure that source attribution is always visible even if the model's respon
 The system retrieves the top 5 relevant chunks from ChromaDB before generation. 
 Because only retrieved content is provided to the model and the prompt explicitly forbids outside knowledge, answers remain grounded in the document collection rather than the model's general training data. 
 
-────────────────────────────────────────────────────────────
 ### System Responses (2 Example Outputs + 1 Refusal Output)
-────────────────────────────────────────────────────────────
 
 Q: What are the easiest CS electives at Rutgers?
 
